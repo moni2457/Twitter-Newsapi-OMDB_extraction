@@ -1,0 +1,953 @@
+{"_id":{"$oid":"5e7e718852f3fac0d75b9ac1"},"title":"Big Brother Canada","poster":"https://m.media-amazon.com/images/M/MV5BZjY5MTUzYTUtNjA2MS00ZDUzLTgyMzUtNmQ2MTE2ZWJlMTNlXkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_SX300.jpg","imdb_id":"tt2776888","year":"2013–","type":"series"}
+{"_id":{"$oid":"5e7e718852f3fac0d75b9ac2"},"title":"My Internship in Canada","poster":"https://m.media-amazon.com/images/M/MV5BNzcwZTIyMWMtYmJjNy00ZmViLThlNGMtMTVjOTQyOWU4ZDA1XkEyXkFqcGdeQXVyMjQ3NzUxOTM@._V1_SX300.jpg","imdb_id":"tt4116116","year":"2015","type":"movie"}
+{"_id":{"$oid":"5e7e718852f3fac0d75b9ac3"},"title":"Storage Wars Canada","poster":"https://m.media-amazon.com/images/M/MV5BNThlMTc2MWItZjM5OS00ZWM3LTg1NzItYTk4NDcxYjM3MTBhXkEyXkFqcGdeQXVyMjU1NTIzNTA@._V1_SX300.jpg","imdb_id":"tt3155428","year":"2013–","type":"series"}
+{"_id":{"$oid":"5e7e718852f3fac0d75b9ac4"},"title":"The Amazing Race Canada","poster":"https://m.media-amazon.com/images/M/MV5BMDYzZmE5OTEtNzkxNi00NjA2LTlmYjctYmE4MTdkNmY1ZmVkXkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_SX300.jpg","imdb_id":"tt3069720","year":"2013–","type":"series"}
+{"_id":{"$oid":"5e7e718852f3fac0d75b9ac5"},"title":"MasterChef Canada","poster":"https://m.media-amazon.com/images/M/MV5BODA1MjEyMzY2MV5BMl5BanBnXkFtZTgwOTQ5NTA5NTE@._V1_SX300.jpg","imdb_id":"tt3219166","year":"2014–","type":"series"}
+{"_id":{"$oid":"5e7e718852f3fac0d75b9ac6"},"title":"Canada Russia '72","poster":"https://m.media-amazon.com/images/M/MV5BMTI0OTUzNDkxM15BMl5BanBnXkFtZTcwMzMwNzkzMQ@@._V1_SX300.jpg","imdb_id":"tt0484098","year":"2006–","type":"series"}
+{"_id":{"$oid":"5e7e718852f3fac0d75b9ac7"},"title":"Cab to Canada","poster":"https://m.media-amazon.com/images/M/MV5BYWZmZDVlY2QtMzU4OC00YTNjLWI5MzMtYTY4MDFjMjFjODA1XkEyXkFqcGdeQXVyMzU0NzkwMDg@._V1_SX300.jpg","imdb_id":"tt0161356","year":"1998","type":"movie"}
+{"_id":{"$oid":"5e7e718852f3fac0d75b9ac8"},"title":"Canada Vignettes: Log Driver's Waltz","poster":"https://m.media-amazon.com/images/M/MV5BMTM1NDc4OTc3M15BMl5BanBnXkFtZTYwMDkwODY5._V1_SX300.jpg","imdb_id":"tt0133932","year":"1979","type":"movie"}
+{"_id":{"$oid":"5e7e718852f3fac0d75b9ac9"},"title":"Canada: A People's History","poster":"https://m.media-amazon.com/images/M/MV5BMTgzNTUzMjIwMl5BMl5BanBnXkFtZTcwMzQ1NzQyMQ@@._V1_SX300.jpg","imdb_id":"tt0264228","year":"2000–","type":"series"}
+{"_id":{"$oid":"5e7e718852f3fac0d75b9aca"},"title":"So You Think You Can Dance Canada","poster":"https://m.media-amazon.com/images/M/MV5BZWJmZmJjZjEtODk0My00NmZjLTk2NjktNTk4ZWQ5ZDQxZTdmXkEyXkFqcGdeQXVyMjMwODU0MjI@._V1_SX300.jpg","imdb_id":"tt1267314","year":"2008–","type":"series"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9acb"},"title":"Canada på tvers med Lars Monsen","poster":"https://m.media-amazon.com/images/M/MV5BODE4MDhiOGEtZDgwOC00NzE4LThkMTktOGYyNDZlMjlmYjU4XkEyXkFqcGdeQXVyNTg5Njk5Njk@._V1_SX300.jpg","imdb_id":"tt0802961","year":"2005","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9acc"},"title":"Hockey Night in Canada","poster":"https://m.media-amazon.com/images/M/MV5BMDU5OTMwZjUtNjE4Mi00MTQyLTk4ZmUtYzYyN2QwMDZkYmRmXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_SX300.jpg","imdb_id":"tt0188335","year":"1952–","type":"series"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9acd"},"title":"Five Days to Fame: The Miss World Canada Story","poster":"N/A","imdb_id":"tt0443317","year":"2004","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9ace"},"title":"Project Runway Canada","poster":"https://m.media-amazon.com/images/M/MV5BNjY3MTMxMzItNDM2Ni00ZDhhLThmZGMtOGRmZGIzODk2YTBiXkEyXkFqcGdeQXVyNDYzMzYwODY@._V1_SX300.jpg","imdb_id":"tt1158101","year":"2007–","type":"series"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9acf"},"title":"An American in Canada","poster":"N/A","imdb_id":"tt0306275","year":"2002–2004","type":"series"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9ad0"},"title":"Escape to Canada","poster":"https://m.media-amazon.com/images/M/MV5BMTQyNTcxODE4NF5BMl5BanBnXkFtZTcwMDQ5OTQzMQ@@._V1_SX300.jpg","imdb_id":"tt0434922","year":"2005","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9ad1"},"title":"Souvenir of Canada","poster":"https://m.media-amazon.com/images/M/MV5BNWM5ODg3OTMtMmM0MC00MGE0LWFkNzMtOTE5NWJlZDIwNGFiXkEyXkFqcGdeQXVyMTkwMDQ5MDQ@._V1_SX300.jpg","imdb_id":"tt0439820","year":"2005","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9ad2"},"title":"Chopped Canada","poster":"https://m.media-amazon.com/images/M/MV5BNjlhNzZiMzktNDFkNC00ZmI0LWEyOTUtMDBjOTg2MDJlYjJmXkEyXkFqcGdeQXVyMjA0NjI5MjM@._V1_SX300.jpg","imdb_id":"tt3470148","year":"2014–","type":"series"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9ad3"},"title":"Wipeout Canada","poster":"N/A","imdb_id":"tt1753229","year":"2011–","type":"series"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9ad4"},"title":"Wild Canada","poster":"https://m.media-amazon.com/images/M/MV5BMWJkNWQzMTgtZDZhNi00OTZmLTgwZDMtYmNkMjQxMDYwN2UwXkEyXkFqcGdeQXVyNTM2NTg3Nzg@._V1_SX300.jpg","imdb_id":"tt3690362","year":"2014–","type":"series"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9ad5"},"title":"Top Chef Canada","poster":"https://m.media-amazon.com/images/M/MV5BNGQ5NjJlYTgtZTI4YS00OWZiLWExNWQtM2U1NDMzZDc1NTU3XkEyXkFqcGdeQXVyMTEzNzczMA@@._V1_SX300.jpg","imdb_id":"tt1784288","year":"2011–","type":"series"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9ad6"},"title":"The Romance of Transportation in Canada","poster":"https://m.media-amazon.com/images/M/MV5BNTM2MmM1YjAtZDAwMS00NmNhLWI5YmQtN2Q3NDc4MTQ4MTU1XkEyXkFqcGdeQXVyNzM0MDQ1Mw@@._V1_SX300.jpg","imdb_id":"tt0045100","year":"1952","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9ad7"},"title":"O Canada!","poster":"N/A","imdb_id":"tt0084429","year":"1982","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9ad8"},"title":"UFC 58: USA vs. Canada","poster":"https://m.media-amazon.com/images/M/MV5BMTkxNTk4ODIwMV5BMl5BanBnXkFtZTcwMzQ4Nzk0MQ@@._V1_SX300.jpg","imdb_id":"tt0783602","year":"2006","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9ad9"},"title":"Creepy Canada","poster":"https://m.media-amazon.com/images/M/MV5BNGIyOWFmNGUtNDZiOS00ZjQzLWEyNWMtYWM2ZWYyNTYwYTk0XkEyXkFqcGdeQXVyMjAxMTE3ODA@._V1_SX300.jpg","imdb_id":"tt0389600","year":"2002–","type":"series"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9ada"},"title":"Le sénat du Canada","poster":"N/A","imdb_id":"tt0424476","year":"2002","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9adb"},"title":"Entertainment Tonight Canada","poster":"N/A","imdb_id":"tt0482346","year":"2005–","type":"series"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9adc"},"title":"Helicopter Canada","poster":"https://m.media-amazon.com/images/M/MV5BZWYxYTAwNzgtMWQzMi00MTg4LThhMGUtZGNlMTczNTMzMDZhXkEyXkFqcGdeQXVyMzI5NjUyMDM@._V1_SX300.jpg","imdb_id":"tt0060498","year":"1966","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9add"},"title":"Canada: The Story of Us","poster":"https://m.media-amazon.com/images/M/MV5BZTAzNDI5OWQtOWU1MC00MTZkLTk2YzUtZTY3NDk2MGExNjJkXkEyXkFqcGdeQXVyNTE0NTM0Ng@@._V1_SX300.jpg","imdb_id":"tt6076476","year":"2017–","type":"series"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9ade"},"title":"Undercover Boss Canada","poster":"https://m.media-amazon.com/images/M/MV5BNjE0OTU5NDktNTI0NS00MDE4LWI4MzQtZTdjNTU2MTA2YzA0XkEyXkFqcGdeQXVyMzc2MDA5NzY@._V1_SX300.jpg","imdb_id":"tt2177313","year":"2012–","type":"series"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9adf"},"title":"Come Dine with Me Canada","poster":"https://ia.media-imdb.com/images/M/MV5BNWUxNzNkMjktZTZiMi00ODQyLTlmMTItMjEzNTcwZmFiNTVlL2ltYWdlXkEyXkFqcGdeQXVyMTE0OTg5NTU@._V1_SX300.jpg","imdb_id":"tt1763422","year":"2010–","type":"series"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9ae0"},"title":"The Bachelor Canada","poster":"https://m.media-amazon.com/images/M/MV5BODQxNGQ5MzctM2UxOC00ZjdlLWJkNDItODdmNDAzOTlhMjY5XkEyXkFqcGdeQXVyMTE0OTg5NTU@._V1_SX300.jpg","imdb_id":"tt2438750","year":"2012–","type":"series"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9ae1"},"title":"Nightmare in Canada: Canadian Horror on Film","poster":"https://m.media-amazon.com/images/M/MV5BY2JiMmZiZmItYzVkOC00OGE0LTkyZGMtZjNlNDNkNTQ0NjZjXkEyXkFqcGdeQXVyNjE2MTE4NTA@._V1_SX300.jpg","imdb_id":"tt0431944","year":"2004","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9ae2"},"title":"Over Canada: An Aerial Adventure","poster":"https://m.media-amazon.com/images/M/MV5BMTY4NjcyMjE1N15BMl5BanBnXkFtZTcwNjQzMzkxMQ@@._V1_SX300.jpg","imdb_id":"tt0472480","year":"1999","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9ae3"},"title":"Canada Vignettes: Men of the Deeps, Cape Breton","poster":"N/A","imdb_id":"tt0235256","year":"1978","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9ae4"},"title":"Canada Vignettes: Fort Prince of Wales","poster":"N/A","imdb_id":"tt0228110","year":"1978","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9ae5"},"title":"Has Anybody Here Seen Canada? A History of Canadian Movies 1939-1953","poster":"N/A","imdb_id":"tt0178556","year":"1979","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9ae6"},"title":"Comedy Night in Canada","poster":"N/A","imdb_id":"tt0423997","year":"2003","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9ae7"},"title":"Design Canada","poster":"https://m.media-amazon.com/images/M/MV5BNzMxNTExNTkyOV5BMl5BanBnXkFtZTgwMzAyOTY3NTM@._V1_SX300.jpg","imdb_id":"tt7125748","year":"2018","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9ae8"},"title":"Canada A.M.","poster":"N/A","imdb_id":"tt0341708","year":"1972–","type":"series"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9ae9"},"title":"O Canada","poster":"N/A","imdb_id":"tt0290116","year":"1997–","type":"series"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9aea"},"title":"Victoria and Vancouver: Gateways to Canada","poster":"N/A","imdb_id":"tt1210118","year":"1936","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9aeb"},"title":"The Bachelorette Canada","poster":"https://m.media-amazon.com/images/M/MV5BNTRhYTgxZTMtYTczZC00YjkxLWEwYjQtODg0ZmM0MTE2NzE3XkEyXkFqcGdeQXVyNzI1MjQ0NjA@._V1_SX300.jpg","imdb_id":"tt5809666","year":"2016–","type":"series"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9aec"},"title":"Live from Canada, It's Ed the Sock","poster":"https://m.media-amazon.com/images/M/MV5BMGIyYjVhMTEtMWI3Mi00ZThjLTg5MjktNmQxNWVlYjdkMTVjXkEyXkFqcGdeQXVyNDc4MTIyNjM@._V1_SX300.jpg","imdb_id":"tt8706100","year":"2016–2017","type":"series"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9aed"},"title":"Canada Vignettes: Lady Frances Simpson","poster":"N/A","imdb_id":"tt0236069","year":"1978","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9aee"},"title":"Canada Vignettes: Faces","poster":"N/A","imdb_id":"tt0225262","year":"1978","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9aef"},"title":"Out: Stories of Lesbian and Gay Youth in Canada","poster":"N/A","imdb_id":"tt0110756","year":"1993","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9af0"},"title":"Intervention Canada","poster":"N/A","imdb_id":"tt2010090","year":"2011–","type":"series"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9af1"},"title":"Canada Vignettes: Bill Miner","poster":"N/A","imdb_id":"tt0225249","year":"1978","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9af2"},"title":"Animation Favorites from the National Film Board of Canada","poster":"https://m.media-amazon.com/images/M/MV5BMTc3OTUwMTczNl5BMl5BanBnXkFtZTcwOTMwNjcxMQ@@._V1_SX300.jpg","imdb_id":"tt0307962","year":"1994","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9af3"},"title":"Canada Vignettes: Spence's Republic","poster":"N/A","imdb_id":"tt0228111","year":"1978","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9af4"},"title":"Canada Vignettes: The Egg","poster":"N/A","imdb_id":"tt0225287","year":"1979","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9af5"},"title":"Canada Vignettes: The Horse","poster":"N/A","imdb_id":"tt0225289","year":"1978","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9af6"},"title":"Jimmy MacDonald's Canada","poster":"N/A","imdb_id":"tt0764491","year":"2005–","type":"series"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9af7"},"title":"It's Fun to Help Poor People, Franny Canada","poster":"N/A","imdb_id":"tt0469923","year":"2005","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9af8"},"title":"Canada Vignettes: The Maple Leaf","poster":"N/A","imdb_id":"tt0225290","year":"1978","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9af9"},"title":"Canada Vignettes: Voyageurs","poster":"N/A","imdb_id":"tt0225303","year":"1978","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9afa"},"title":"Canada Vignettes: Instant French","poster":"N/A","imdb_id":"tt0225268","year":"1979","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9afb"},"title":"Canada Vignettes: Logger","poster":"N/A","imdb_id":"tt0225273","year":"1978","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9afc"},"title":"The Funnier Side of Eastern Canada","poster":"N/A","imdb_id":"tt0390033","year":"1974","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9afd"},"title":"Canada Vignettes: Canada's Snowbirds","poster":"N/A","imdb_id":"tt0225253","year":"1980","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9afe"},"title":"Canada Vignettes: Wop May","poster":"N/A","imdb_id":"tt0222902","year":"1979","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9aff"},"title":"Dino Hunt Canada","poster":"N/A","imdb_id":"tt4585718","year":"2015–","type":"series"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b00"},"title":"Breaking Point: Canada/Quebec - The 1995 Referendum","poster":"N/A","imdb_id":"tt1824924","year":"2005","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b01"},"title":"Pawnathon Canada","poster":"N/A","imdb_id":"tt2232875","year":"2011–","type":"series"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b02"},"title":"Canada Day","poster":"https://m.media-amazon.com/images/M/MV5BYzRkOTliOTAtNGY1Mi00YjkyLTk4YWMtZGIxN2JhMmY3M2Y1XkEyXkFqcGdeQXVyMjU1MjIzNQ@@._V1_SX300.jpg","imdb_id":"tt7023432","year":"2017","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b03"},"title":"Canada Vignettes: Newfoundland","poster":"N/A","imdb_id":"tt0225277","year":"1978","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b04"},"title":"Canada","poster":"https://m.media-amazon.com/images/M/MV5BMTc1NTc2NTAxMV5BMl5BanBnXkFtZTgwNjA3MDA2MDE@._V1_SX300.jpg","imdb_id":"tt0478852","year":"2004","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b05"},"title":"Canada Vignettes: Land Bridge","poster":"N/A","imdb_id":"tt0225271","year":"1978","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b06"},"title":"Canada Vignettes: Dance","poster":"N/A","imdb_id":"tt0225258","year":"1979","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b07"},"title":"Canada Vignettes: Woolly Mammoth","poster":"N/A","imdb_id":"tt0224710","year":"1979","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b08"},"title":"The World Without Canada","poster":"https://m.media-amazon.com/images/M/MV5BOTBmYTkyYjItZjNjOC00OWYzLTlhMWMtOTYwZWJiYjhlNWFlXkEyXkFqcGdeQXVyODE5NTIzMQ@@._V1_SX300.jpg","imdb_id":"tt6942700","year":"2017","type":"series"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b09"},"title":"The Closer You Get to Canada","poster":"https://m.media-amazon.com/images/M/MV5BMTMxMjc3MTU4Ml5BMl5BanBnXkFtZTcwMDEwODg3Mw@@._V1_SX300.jpg","imdb_id":"tt1665765","year":"2010","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b0a"},"title":"Canada Vignettes: Riverdale Lion","poster":"N/A","imdb_id":"tt0225282","year":"1979","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b0b"},"title":"Canada Vignettes: News Canada","poster":"N/A","imdb_id":"tt0225278","year":"1978","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b0c"},"title":"Canada Vignettes: Hudden and Dudden and Donald O'Neary","poster":"N/A","imdb_id":"tt0222891","year":"1978","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b0d"},"title":"Canada Vignettes: Emergency Numbers","poster":"N/A","imdb_id":"tt0236058","year":"1984","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b0e"},"title":"O Canada","poster":"https://ia.media-imdb.com/images/M/MV5BMjE2MjU5MzM4Ml5BMl5BanBnXkFtZTgwMTE2NzI2MjE@._V1_SX300.jpg","imdb_id":"tt0226231","year":"1952","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b0f"},"title":"The Uncle from Canada","poster":"https://m.media-amazon.com/images/M/MV5BM2E2N2FkNWQtZDhjNy00YTk0LWIyM2ItOTkwMTdiNTUxMzFmXkEyXkFqcGdeQXVyNzg5OTk2OA@@._V1_SX300.jpg","imdb_id":"tt0184942","year":"1959","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b10"},"title":"Canada Vignettes: Sodbusters","poster":"N/A","imdb_id":"tt0225283","year":"1978","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b11"},"title":"Canada Vignettes: Toronto","poster":"N/A","imdb_id":"tt0225297","year":"1978","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b12"},"title":"Canada Vignettes: Trading Post","poster":"N/A","imdb_id":"tt0225298","year":"1978","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b13"},"title":"Canada Vignettes: Bluenose 1921-1946","poster":"N/A","imdb_id":"tt0225251","year":"1979","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b14"},"title":"Canada Vignettes: Captain Cook","poster":"N/A","imdb_id":"tt0225254","year":"1978","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b15"},"title":"Big Brother Canada Side Show","poster":"https://m.media-amazon.com/images/M/MV5BMDRhZGI0NjItNTQ5My00MTNkLTgwNzMtNzQ2YmQyMDljMTFhXkEyXkFqcGdeQXVyNjUyODM1NzU@._V1_SX300.jpg","imdb_id":"tt4471196","year":"2014–","type":"series"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b16"},"title":"Canada Vignettes: The Performer","poster":"N/A","imdb_id":"tt0225292","year":"1980","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b17"},"title":"Canada Vignettes: Port Royal","poster":"N/A","imdb_id":"tt0225280","year":"1978","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b18"},"title":"Canada Vignettes: Trees","poster":"N/A","imdb_id":"tt0225299","year":"1978","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b19"},"title":"The Kid from Canada","poster":"N/A","imdb_id":"tt0168919","year":"1958","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b1a"},"title":"Be My Valentine, Franny Canada","poster":"N/A","imdb_id":"tt0437854","year":"2003","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b1b"},"title":"The Great Toronto Fire, Toronto, Canada, April 19, 1904","poster":"N/A","imdb_id":"tt0809335","year":"1904","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b1c"},"title":"Canada for Canadians","poster":"N/A","imdb_id":"tt0193037","year":"1988","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b1d"},"title":"Canada Vignettes: Land of the Maple Leaf","poster":"N/A","imdb_id":"tt0222892","year":"1978","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b1e"},"title":"Canada Vignettes: Delta Plane","poster":"N/A","imdb_id":"tt0225259","year":"1979","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b1f"},"title":"Canada Vignettes: Crossing Guards","poster":"N/A","imdb_id":"tt0225257","year":"1978","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b20"},"title":"Canada Vignettes: Home of the Beaver","poster":"N/A","imdb_id":"tt0222890","year":"1978","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b21"},"title":"Canada for Haiti","poster":"N/A","imdb_id":"tt1591467","year":"2010","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b22"},"title":"Say Yes to the Dress: Canada","poster":"https://m.media-amazon.com/images/M/MV5BNGEyZjJiMjgtOTU3YS00ZDYyLTgyYjctYWYxYWVhNDQzOGUyXkEyXkFqcGdeQXVyODQ5MjAyNg@@._V1_SX300.jpg","imdb_id":"tt4390084","year":"2015–","type":"series"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b23"},"title":"Les États-Désunis du Canada","poster":"N/A","imdb_id":"tt3654410","year":"2012","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b24"},"title":"Les États-Désunis du Canada","poster":"N/A","imdb_id":"tt3658240","year":"2012","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b25"},"title":"UFC 58 Countdown: USA vs. Canada","poster":"N/A","imdb_id":"tt1608261","year":"2006","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b26"},"title":"Wings Over Canada","poster":"N/A","imdb_id":"tt0802916","year":"1998–2006","type":"series"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b27"},"title":"Canada Vignettes: Onions and Garlic","poster":"N/A","imdb_id":"tt0222895","year":"1978","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b28"},"title":"Canada Vignettes: Bluenose II July 24 1963","poster":"N/A","imdb_id":"tt0225252","year":"1979","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b29"},"title":"Canada Vignettes: Fashion Designer","poster":"N/A","imdb_id":"tt0225263","year":"1977","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b2a"},"title":"Canada Vignettes: Physiotherapist","poster":"N/A","imdb_id":"tt0225279","year":"1977","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b2b"},"title":"Canada Vignettes: The Ham","poster":"N/A","imdb_id":"tt0225288","year":"1978","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b2c"},"title":"The Mysterious Moon Men of Canada","poster":"N/A","imdb_id":"tt0209169","year":"1989","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b2d"},"title":"Canada Vignettes: Flin Flon","poster":"N/A","imdb_id":"tt0236059","year":"1978","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b2e"},"title":"Canada Vignettes: Inuit Pipe","poster":"N/A","imdb_id":"tt0236068","year":"1979","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b2f"},"title":"Canada Vignettes: Métis Coat","poster":"N/A","imdb_id":"tt0236073","year":"1979","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b30"},"title":"Canada Vignettes: Skier","poster":"N/A","imdb_id":"tt0236076","year":"1978","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b31"},"title":"Canada Vignettes: Don Messer - His Land and His Music - Don Messer 1910-1973","poster":"N/A","imdb_id":"tt0222886","year":"1979","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b32"},"title":"Canada Vignettes: The Wool Spinner","poster":"N/A","imdb_id":"tt0222901","year":"1979","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b33"},"title":"Canada Vignettes: Our Daily Bread","poster":"N/A","imdb_id":"tt0222896","year":"1979","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b34"},"title":"Canada Vignettes: Catapult Canada","poster":"N/A","imdb_id":"tt0224708","year":"1985","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b35"},"title":"Four Weddings Canada","poster":"https://m.media-amazon.com/images/M/MV5BMjVlNTU3MjUtYmRlZC00MjQ5LWI3OTItZGNlMjMxMWRlNzAzXkEyXkFqcGdeQXVyMTA4MTMwMTk@._V1_SX300.jpg","imdb_id":"tt2180991","year":"2012–","type":"series"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b36"},"title":"Fool Canada","poster":"https://m.media-amazon.com/images/M/MV5BN2ZhMzljMDItNTcwYy00YWI0LTk5YWMtZGQ3NGYzNTE3NGQ3XkEyXkFqcGdeQXVyMTcwMzQ4NA@@._V1_SX300.jpg","imdb_id":"tt4789316","year":"2015–","type":"series"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b37"},"title":"Spelling Night in Canada 2012","poster":"N/A","imdb_id":"tt2369319","year":"2012","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b38"},"title":"Death or Canada","poster":"https://m.media-amazon.com/images/M/MV5BOTkzMGViMjctNzRlNy00OTNmLWE1MzYtNDI2NGJkOGFiZWYyXkEyXkFqcGdeQXVyMTU5ODY3OTU@._V1_SX300.jpg","imdb_id":"tt1720080","year":"2008","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b39"},"title":"Canada Vignettes: The Seigneury","poster":"N/A","imdb_id":"tt0222900","year":"1978","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b3a"},"title":"Canada Vignettes: Easter Eggs","poster":"N/A","imdb_id":"tt0225260","year":"1978","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b3b"},"title":"Canada Vignettes: The Photographers","poster":"N/A","imdb_id":"tt0225293","year":"1978","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b3c"},"title":"Canada Vignettes: The Veteran","poster":"N/A","imdb_id":"tt0225294","year":"1978","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b3d"},"title":"La cañada","poster":"N/A","imdb_id":"tt0425813","year":"2004","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b3e"},"title":"Canada Vignettes: Indian Pipe","poster":"N/A","imdb_id":"tt0236067","year":"1979","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b3f"},"title":"Canada Vignettes: Holidays","poster":"N/A","imdb_id":"tt0236063","year":"1978","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b40"},"title":"Canada Vignettes: Veterinarian","poster":"N/A","imdb_id":"tt0225301","year":"1977","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b41"},"title":"Canada Vignettes: McIntosh","poster":"N/A","imdb_id":"tt0236071","year":"1979","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b42"},"title":"Canada Vignettes: Moccasins","poster":"N/A","imdb_id":"tt0236072","year":"1979","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b43"},"title":"Canada Vignettes: The Visitor","poster":"N/A","imdb_id":"tt0236078","year":"1979","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b44"},"title":"Let No One Put Asunder: The Legal Recognition of Same Sex Marriage in Canada","poster":"N/A","imdb_id":"tt0435131","year":"2004","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b45"},"title":"A Flag for Canada","poster":"N/A","imdb_id":"tt0373844","year":"2003","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b46"},"title":"Canada: Sperm Bank of Satan","poster":"N/A","imdb_id":"tt0370384","year":"2003","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b47"},"title":"Canada Naturally: The Film (Part One)","poster":"N/A","imdb_id":"tt0369312","year":"1993","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b48"},"title":"The Guess Who: Running Back Thru Canada","poster":"https://m.media-amazon.com/images/M/MV5BNmMxODI3MDItYzgzNy00MmRkLWI5NDItYzUzOTVjMzhjMTRiXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_SX300.jpg","imdb_id":"tt1356910","year":"2004","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b49"},"title":"Canada Vignettes: Stunt Family","poster":"N/A","imdb_id":"tt0225284","year":"1978","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b4a"},"title":"Canada Vignettes: Love on Wheels","poster":"N/A","imdb_id":"tt0225274","year":"1979","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b4b"},"title":"Canada Vignettes: Full Circle","poster":"N/A","imdb_id":"tt0225264","year":"1979","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b4c"},"title":"William Shatner Sings O Canada","poster":"N/A","imdb_id":"tt2008031","year":"2011","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b4d"},"title":"Canada","poster":"N/A","imdb_id":"tt1214952","year":"2007","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b4e"},"title":"Ice Road Truckers Canada","poster":"N/A","imdb_id":"tt3524210","year":"2014–","type":"series"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b4f"},"title":"Family Feud Canada","poster":"https://m.media-amazon.com/images/M/MV5BMzA3YTRhNjgtNjVkZi00YTZlLTk1M2ItYThhZjU3MThlMWNmXkEyXkFqcGdeQXVyNTM0NTU5Mg@@._V1_SX300.jpg","imdb_id":"tt11478344","year":"2019–","type":"series"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b50"},"title":"Keeping Canada Alive","poster":"https://m.media-amazon.com/images/M/MV5BMWY3N2EzNmMtYzFiZS00MTc0LTgxMTgtZWM3MTgwY2U1NDZlXkEyXkFqcGdeQXVyOTc4ODY0MA@@._V1_SX300.jpg","imdb_id":"tt5063130","year":"2015–","type":"series"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b51"},"title":"Gone South: How Canada Invented Hollywood","poster":"N/A","imdb_id":"tt3570768","year":"2014","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b52"},"title":"How to Look Good Naked Canada","poster":"N/A","imdb_id":"tt1583931","year":"2010","type":"series"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b53"},"title":"Blacklist: Recovering the Life of Canada Lee","poster":"N/A","imdb_id":"tt0498328","year":"2008","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b54"},"title":"William Shatner Sings O Canada (USA)","poster":"N/A","imdb_id":"tt2008032","year":"2011","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b55"},"title":"Heritage Minute: Canada Gay Marriage","poster":"N/A","imdb_id":"tt2101366","year":"2011","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b56"},"title":"Project Canada","poster":"N/A","imdb_id":"tt2117949","year":"2011","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b57"},"title":"Canada Vignettes: Erik Davidson - Mechanic","poster":"N/A","imdb_id":"tt0225261","year":"1979","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b58"},"title":"Canada Vignettes: The Blacksmith Shop","poster":"N/A","imdb_id":"tt0222897","year":"1979","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b59"},"title":"Canada Vignettes: Ma chère Albertine","poster":"N/A","imdb_id":"tt0225275","year":"1979","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b5a"},"title":"Canada Vignettes: The Dentist","poster":"N/A","imdb_id":"tt0225286","year":"1978","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b5b"},"title":"Canada Vignettes: The Violin Maker","poster":"N/A","imdb_id":"tt0225295","year":"1978","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b5c"},"title":"Red Riders of Canada","poster":"N/A","imdb_id":"tt0019317","year":"1928","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b5d"},"title":"Canada Vignettes: From Flax to Linen","poster":"N/A","imdb_id":"tt0222889","year":"1978","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b5e"},"title":"Canada '67","poster":"N/A","imdb_id":"tt0061442","year":"1967","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b5f"},"title":"Canucula! (Dracula in Canada)","poster":"https://m.media-amazon.com/images/M/MV5BMjAzMzIxMjU3OF5BMl5BanBnXkFtZTgwOTcyMzA2MDE@._V1_SX300.jpg","imdb_id":"tt1368489","year":"2008","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b60"},"title":"Coasting Scene at Montmorency Falls, Canada","poster":"N/A","imdb_id":"tt0366313","year":"1902","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b61"},"title":"Cross-Canada Hit Parade","poster":"N/A","imdb_id":"tt0341725","year":"1955–","type":"series"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b62"},"title":"Canada Vignettes: The Novelist","poster":"N/A","imdb_id":"tt0225291","year":"1978","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b63"},"title":"Canada Vignettes: Headdress","poster":"N/A","imdb_id":"tt0236061","year":"1979","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b64"},"title":"Canada Vignettes: The Thirties","poster":"N/A","imdb_id":"tt0235257","year":"1978","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b65"},"title":"Canada Vignettes: Angel of Death","poster":"N/A","imdb_id":"tt0236051","year":"1980","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b66"},"title":"Canada Vignettes: Arctic Mission","poster":"N/A","imdb_id":"tt0236052","year":"1980","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b67"},"title":"Canada Vignettes: Arctic Seascape","poster":"N/A","imdb_id":"tt0236053","year":"1980","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b68"},"title":"Canada Vignettes: Breadmakers","poster":"N/A","imdb_id":"tt0236054","year":"1980","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b69"},"title":"Canada Vignettes: Bridge for the Dempster","poster":"N/A","imdb_id":"tt0236055","year":"1980","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b6a"},"title":"Canada Vignettes: Calliope","poster":"N/A","imdb_id":"tt0236056","year":"1980","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b6b"},"title":"Canada Vignettes: Cree Hunters","poster":"N/A","imdb_id":"tt0236057","year":"1979","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b6c"},"title":"Canada Vignettes: History for Tomorrow","poster":"N/A","imdb_id":"tt0236062","year":"1980","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b6d"},"title":"Canada Vignettes: From Cobalt to Casa Loma","poster":"N/A","imdb_id":"tt0236060","year":"1978","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b6e"},"title":"Canada Vignettes: Vignettes from Labrador North","poster":"N/A","imdb_id":"tt0225302","year":"1979","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b6f"},"title":"Regards sur le Canada nº 1","poster":"N/A","imdb_id":"tt0226371","year":"1954","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b70"},"title":"Window on Canada","poster":"N/A","imdb_id":"tt0226642","year":"1953","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b71"},"title":"Young Canada at School","poster":"N/A","imdb_id":"tt0226676","year":"1960","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b72"},"title":"Canada Vignettes: Bells and Brass","poster":"N/A","imdb_id":"tt0226723","year":"1978","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b73"},"title":"Industrial Canada","poster":"N/A","imdb_id":"tt0226829","year":"1958","type":"movie"}
+{"_id":{"$oid":"5e7e718952f3fac0d75b9b74"},"title":"Oh Canada","poster":"N/A","imdb_id":"tt0227168","year":"1978","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9b75"},"title":"One Sunday in Canada","poster":"N/A","imdb_id":"tt0227193","year":"1961","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9b76"},"title":"Postmark Canada","poster":"N/A","imdb_id":"tt0227292","year":"1958","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9b77"},"title":"To the Queen Mother from Canada with Love","poster":"N/A","imdb_id":"tt0227663","year":"1990","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9b78"},"title":"Canada: World Citizen","poster":"N/A","imdb_id":"tt0228112","year":"1959","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9b79"},"title":"It Happened in Canada","poster":"N/A","imdb_id":"tt0228442","year":"1962","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9b7a"},"title":"De verloofde uit Canada","poster":"N/A","imdb_id":"tt0232552","year":"1934","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9b7b"},"title":"Agriculture Canada","poster":"N/A","imdb_id":"tt0233172","year":"1970","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9b7c"},"title":"Rendezvous Canada, 1606","poster":"N/A","imdb_id":"tt0234590","year":"1988","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9b7d"},"title":"Canada Vignettes: Dancing Dolls","poster":"N/A","imdb_id":"tt0235255","year":"1980","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9b7e"},"title":"Canada Vignettes: Under the Pole","poster":"N/A","imdb_id":"tt0236079","year":"1980","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9b7f"},"title":"Regards sur le Canada nº 10","poster":"N/A","imdb_id":"tt0236664","year":"1954","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9b80"},"title":"Regards sur le Canada nº 11","poster":"N/A","imdb_id":"tt0236665","year":"1954","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9b81"},"title":"Regards sur le Canada nº 12","poster":"N/A","imdb_id":"tt0236666","year":"1954","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9b82"},"title":"Regards sur le Canada nº 13","poster":"N/A","imdb_id":"tt0236667","year":"1955","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9b83"},"title":"Regards sur le Canada nº 2","poster":"N/A","imdb_id":"tt0236668","year":"1954","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9b84"},"title":"Regards sur le Canada nº 3","poster":"N/A","imdb_id":"tt0236669","year":"1954","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9b85"},"title":"Regards sur le Canada nº 4","poster":"N/A","imdb_id":"tt0236670","year":"1954","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9b86"},"title":"Regards sur le Canada nº 5","poster":"N/A","imdb_id":"tt0236671","year":"1954","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9b87"},"title":"Regards sur le Canada nº 6","poster":"N/A","imdb_id":"tt0236672","year":"1954","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9b88"},"title":"Regards sur le Canada nº 7","poster":"N/A","imdb_id":"tt0236673","year":"1954","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9b89"},"title":"Regards sur le Canada nº 8","poster":"N/A","imdb_id":"tt0236674","year":"1954","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9b8a"},"title":"Regards sur le Canada nº 9","poster":"N/A","imdb_id":"tt0236675","year":"1954","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9b8b"},"title":"Canada at the Coronation","poster":"N/A","imdb_id":"tt0237069","year":"1953","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9b8c"},"title":"Le ministère des affaires extérieures du Canada","poster":"N/A","imdb_id":"tt0237460","year":"1972","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9b8d"},"title":"Soils of Canada","poster":"N/A","imdb_id":"tt0237755","year":"1978","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9b8e"},"title":"Under the Willow Tree: Pioneer Chinese Women in Canada","poster":"N/A","imdb_id":"tt0237874","year":"1997","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9b8f"},"title":"Royal Visit '59: Central Canada","poster":"N/A","imdb_id":"tt0238563","year":"1959","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9b90"},"title":"Trans-Canada Journey","poster":"N/A","imdb_id":"tt0242049","year":"1962","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9b91"},"title":"Inside Fighting Canada","poster":"N/A","imdb_id":"tt0245968","year":"1942","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9b92"},"title":"Inside Canada","poster":"N/A","imdb_id":"tt0250158","year":"1973–1974","type":"series"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9b93"},"title":"Canada After Dark","poster":"N/A","imdb_id":"tt0250843","year":"1978–1979","type":"series"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9b94"},"title":"Canada Dances","poster":"N/A","imdb_id":"tt0252972","year":"1947","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9b95"},"title":"Favourable Exchange: International Students in Canada","poster":"N/A","imdb_id":"tt0255162","year":"1988","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9b96"},"title":"Banshees Over Canada","poster":"N/A","imdb_id":"tt0257429","year":"1943","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9b97"},"title":"Passport to Canada","poster":"N/A","imdb_id":"tt0263843","year":"1949","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9b98"},"title":"Canada Vignettes: Northern Seasons","poster":"N/A","imdb_id":"tt0236074","year":"1980","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9b99"},"title":"Canada Vignettes: Prehistoric Artifacts, New Brunswick","poster":"N/A","imdb_id":"tt0236075","year":"1980","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9b9a"},"title":"L'architecture religieuse en Canada (1640-1790)","poster":"N/A","imdb_id":"tt0267273","year":"1982","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9b9b"},"title":"Canada: Landform Regions","poster":"N/A","imdb_id":"tt0267350","year":"1964","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9b9c"},"title":"Report Canada","poster":"N/A","imdb_id":"tt0275149","year":"1978–","type":"series"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9b9d"},"title":"Canada-rejsen","poster":"N/A","imdb_id":"tt0280514","year":"1967","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9b9e"},"title":"Canada Vignettes: Ice Carnival Montreal 1885 - Canadian Bounce","poster":"N/A","imdb_id":"tt0236064","year":"1986","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9b9f"},"title":"Canada Vignettes: Ice Carnival Montreal 1885 - Souvenir Programme","poster":"N/A","imdb_id":"tt0236065","year":"1986","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9ba0"},"title":"Canada Vignettes: Ice Carnival Montreal 1885 - Storming the Ice Palace","poster":"N/A","imdb_id":"tt0236066","year":"1986","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9ba1"},"title":"Canada Vignettes: Maritimes Dig","poster":"N/A","imdb_id":"tt0236070","year":"1980","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9ba2"},"title":"Magic Carpet: Call of Canada","poster":"N/A","imdb_id":"tt0347469","year":"1941","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9ba3"},"title":"Canada à la carte","poster":"N/A","imdb_id":"tt0348810","year":"2002–","type":"series"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9ba4"},"title":"Hockey Match on the Ice at Montreal, Canada","poster":"N/A","imdb_id":"tt0359418","year":"1901","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9ba5"},"title":"Duke and Duchess of York Leaving the Railroad Station at Montreal, Canada","poster":"N/A","imdb_id":"tt0360530","year":"1901","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9ba6"},"title":"The Voyager: A Tale of Old Canada","poster":"N/A","imdb_id":"tt0361102","year":"1911","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9ba7"},"title":"Tobogganing in Canada","poster":"N/A","imdb_id":"tt0367149","year":"1902","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9ba8"},"title":"Jonathon Cross's Canada","poster":"N/A","imdb_id":"tt0367346","year":"2003","type":"series"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9ba9"},"title":"Canada Naturally: The Film (Part Two)","poster":"N/A","imdb_id":"tt0369313","year":"1993","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9baa"},"title":"Canada Vignettes: St. Laurent Pilgrimage","poster":"N/A","imdb_id":"tt0236077","year":"1985","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9bab"},"title":"The Royal Visit to Canada and the United States of America May 17 - June 15, 1939","poster":"N/A","imdb_id":"tt0306031","year":"1939","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9bac"},"title":"O Canada","poster":"N/A","imdb_id":"tt0309935","year":"1978","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9bad"},"title":"Timber - ØK i Canada","poster":"N/A","imdb_id":"tt0326281","year":"1967","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9bae"},"title":"Directors Guild of Canada: 40 Years of Making Movies","poster":"N/A","imdb_id":"tt0340076","year":"2002","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9baf"},"title":"Trans-Canada Express","poster":"N/A","imdb_id":"tt0371336","year":"1944","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9bb0"},"title":"Canada Goose","poster":"N/A","imdb_id":"tt0396519","year":"1969","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9bb1"},"title":"An Idea of Canada","poster":"N/A","imdb_id":"tt0418744","year":"2003","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9bb2"},"title":"DR-Explorer: Tværs over Canada","poster":"N/A","imdb_id":"tt0422054","year":"2003","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9bb3"},"title":"Canada Remembers: A Veterans Reunion","poster":"N/A","imdb_id":"tt0441142","year":"2002","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9bb4"},"title":"Italia, Canada","poster":"N/A","imdb_id":"tt0430241","year":"2004","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9bb5"},"title":"Bienvenue au Canada","poster":"N/A","imdb_id":"tt0434794","year":"2004","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9bb6"},"title":"Water Powers of Eastern Canada","poster":"N/A","imdb_id":"tt1402590","year":"1918","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9bb7"},"title":"Making 'New in Town' in Winnipeg, Canada","poster":"N/A","imdb_id":"tt1475572","year":"2009","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9bb8"},"title":"Interview: With Ms. World Canada Ramona Amiri","poster":"N/A","imdb_id":"tt1489903","year":"2006","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9bb9"},"title":"Women in Canada: A Trilogy","poster":"N/A","imdb_id":"tt1499949","year":"2005","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9bba"},"title":"E! True Hollywood Story (Canada)","poster":"N/A","imdb_id":"tt1512917","year":"2008–2009","type":"series"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9bbb"},"title":"Belly Dance Man: From Canada to Cairo","poster":"N/A","imdb_id":"tt1518681","year":"2009","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9bbc"},"title":"A Trip Over the Rocky and Selkirk Mountains in Canada","poster":"N/A","imdb_id":"tt1520264","year":"1910","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9bbd"},"title":"Titanic Canada","poster":"N/A","imdb_id":"tt1522870","year":"2007","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9bbe"},"title":"With Rod and Gun in Canada","poster":"N/A","imdb_id":"tt1523373","year":"1946","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9bbf"},"title":"A Wedding Trip from Montreal Through Canada to Hong Kong","poster":"N/A","imdb_id":"tt1525315","year":"1910","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9bc0"},"title":"Killing Calhoun: A Canadian Film, in Canada","poster":"N/A","imdb_id":"tt1536108","year":"2009","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9bc1"},"title":"Surfing Across Canada","poster":"N/A","imdb_id":"tt1543911","year":"2009","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9bc2"},"title":"Collecting Canada","poster":"N/A","imdb_id":"tt1557542","year":"2008","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9bc3"},"title":"How to Immigrate to Canada","poster":"N/A","imdb_id":"tt1581308","year":"2010","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9bc4"},"title":"DR-Explorer: Klimavidner i arktisk Canada","poster":"N/A","imdb_id":"tt0817892","year":"2004","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9bc5"},"title":"Canada Day","poster":"N/A","imdb_id":"tt0819685","year":"2002","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9bc6"},"title":"Exclusif... Canada","poster":"N/A","imdb_id":"tt0819720","year":"1979","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9bc7"},"title":"Canada, l'Amérique autrement","poster":"N/A","imdb_id":"tt0872095","year":"1997","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9bc8"},"title":"Canada: Frontier Man","poster":"N/A","imdb_id":"tt0881215","year":"1991","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9bc9"},"title":"Far from Home: Canada and the Great War - Sam's Army","poster":"N/A","imdb_id":"tt0896929","year":"1999","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9bca"},"title":"Proyecto Canada","poster":"N/A","imdb_id":"tt0922571","year":"2006","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9bcb"},"title":"Passport to Canada","poster":"N/A","imdb_id":"tt0939645","year":"2006","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9bcc"},"title":"Baby Gizmo in Canada","poster":"N/A","imdb_id":"tt0945319","year":"2006","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9bcd"},"title":"Charley Pride: Live in Canada","poster":"N/A","imdb_id":"tt0945326","year":"2005","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9bce"},"title":"Harvesting in Alberta, Canada","poster":"N/A","imdb_id":"tt0949734","year":"1917","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9bcf"},"title":"Picturesque Canada","poster":"N/A","imdb_id":"tt1013677","year":"1927","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9bd0"},"title":"Canada vignettes: Roulamour","poster":"N/A","imdb_id":"tt0456874","year":"1979","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9bd1"},"title":"Seven Oaks: The Seeds of Western Canada","poster":"N/A","imdb_id":"tt0491574","year":"2005","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9bd2"},"title":"Unexplained Canada","poster":"N/A","imdb_id":"tt0495021","year":"2006–","type":"series"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9bd3"},"title":"Mes voyages en Canada de Jacques Cartier","poster":"N/A","imdb_id":"tt0087711","year":"1984","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9bd4"},"title":"Portraits of Canada","poster":"N/A","imdb_id":"tt0091782","year":"1986","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9bd5"},"title":"The Defence of Canada","poster":"N/A","imdb_id":"tt0126742","year":"1985–","type":"series"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9bd6"},"title":"The Discoverers: A Grand Historical Pageant Picturing the Discovery and Founding of New France, Canada","poster":"N/A","imdb_id":"tt0143217","year":"1908","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9bd7"},"title":"Al oeste de Canadá","poster":"N/A","imdb_id":"tt0157300","year":"1969","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9bd8"},"title":"Destination Canada","poster":"https://m.media-amazon.com/images/M/MV5BMTA2MjA2OTU4NjNeQTJeQWpwZ15BbWU4MDUwMzk5NTAx._V1_SX300.jpg","imdb_id":"tt0208089","year":"1998","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9bd9"},"title":"The Highland Regiments of Canada","poster":"N/A","imdb_id":"tt0185360","year":"1978","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9bda"},"title":"Raider in Canada: Portrait of Sean Martin","poster":"N/A","imdb_id":"tt0180947","year":"1998","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9bdb"},"title":"Canada Vignettes: Don Messer - His Land and His Music - Marg Osburne 1927-1977 Pt. 1","poster":"N/A","imdb_id":"tt0222887","year":"1979","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9bdc"},"title":"Canada Vignettes: Don Messer - His Land and His Music - Marg Osburne 1927-1977 Pt. 2","poster":"N/A","imdb_id":"tt0222888","year":"1979","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9bdd"},"title":"Canada Vignettes: Marine Biologist","poster":"N/A","imdb_id":"tt0222893","year":"1979","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9bde"},"title":"Canada Vignettes: Melvin Arbuckle, Famous Canadian","poster":"N/A","imdb_id":"tt0222894","year":"1980","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9bdf"},"title":"Origins: A History of Canada","poster":"N/A","imdb_id":"tt0212682","year":"1987–","type":"series"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9be0"},"title":"Canada Strikes Oil: Leduc, Alberta 1947","poster":"N/A","imdb_id":"tt0222879","year":"1991","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9be1"},"title":"Canada Vignettes: Acadian Quadrille","poster":"N/A","imdb_id":"tt0222880","year":"1978","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9be2"},"title":"Canada Vignettes: Cree Conical Lodge","poster":"N/A","imdb_id":"tt0222881","year":"1980","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9be3"},"title":"Canada Vignettes: December Lights","poster":"N/A","imdb_id":"tt0222882","year":"1979","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9be4"},"title":"Canada Vignettes: Don Messer - His Land and His Music - Charlie Chamberlain 1911-1972 Pt. 1","poster":"N/A","imdb_id":"tt0222883","year":"1979","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9be5"},"title":"Canada Vignettes: Don Messer - His Land and His Music - Charlie Chamberlain 1911-1972 Pt. 2","poster":"N/A","imdb_id":"tt0222884","year":"1979","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9be6"},"title":"Canada Vignettes: Don Messer - His Land and His Music - Charlie Chamberlain 1911-1972, Marg Osburne 1927-1977","poster":"N/A","imdb_id":"tt0222885","year":"1979","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9be7"},"title":"Canada and the American Revolution, 1763-1783","poster":"N/A","imdb_id":"tt0222903","year":"1967","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9be8"},"title":"Canada: Animal Vaccine","poster":"N/A","imdb_id":"tt0222907","year":"1963","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9be9"},"title":"Canada: Beam Therapy","poster":"N/A","imdb_id":"tt0222908","year":"1963","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9bea"},"title":"Canada: Beef Cattle","poster":"N/A","imdb_id":"tt0222909","year":"1963","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9beb"},"title":"Canada: Calf Leather","poster":"N/A","imdb_id":"tt0222910","year":"1963","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9bec"},"title":"Canada: Fibres, Yarns and Fabrics","poster":"N/A","imdb_id":"tt0222911","year":"1963","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9bed"},"title":"Canada: Heating Units","poster":"N/A","imdb_id":"tt0222912","year":"1963","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9bee"},"title":"Canada: Human Vaccine","poster":"N/A","imdb_id":"tt0222913","year":"1963","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9bef"},"title":"Canada: Hydraulic Tracing","poster":"N/A","imdb_id":"tt0222914","year":"1963","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9bf0"},"title":"Canada: Low Temperature Gas","poster":"N/A","imdb_id":"tt0222915","year":"1963","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9bf1"},"title":"Canada: Pre-fab Homes","poster":"N/A","imdb_id":"tt0222916","year":"1963","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9bf2"},"title":"Canada: Swine","poster":"N/A","imdb_id":"tt0222917","year":"1963","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9bf3"},"title":"Canada: Tobacco","poster":"N/A","imdb_id":"tt0222918","year":"1963","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9bf4"},"title":"Canada: White Goods","poster":"N/A","imdb_id":"tt0222919","year":"1963","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9bf5"},"title":"Canada: World Trader","poster":"N/A","imdb_id":"tt0222920","year":"1946","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9bf6"},"title":"Everyday Things in Early Canada: Part I","poster":"N/A","imdb_id":"tt0223235","year":"1985","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9bf7"},"title":"Government in Canada","poster":"N/A","imdb_id":"tt0223385","year":"1991","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9bf8"},"title":"Grain Handling in Canada","poster":"N/A","imdb_id":"tt0223388","year":"1955","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9bf9"},"title":"Physical Regions of Canada","poster":"N/A","imdb_id":"tt0223390","year":"1954","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9bfa"},"title":"Henry Settles in Upper Canada","poster":"N/A","imdb_id":"tt0223444","year":"1995","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9bfb"},"title":"Here Is Canada","poster":"N/A","imdb_id":"tt0223446","year":"1972","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9bfc"},"title":"Human Rights in Canada","poster":"N/A","imdb_id":"tt0223484","year":"1989","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9bfd"},"title":"Introducing Canada","poster":"N/A","imdb_id":"tt0223536","year":"1956","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9bfe"},"title":"Jump-up: Caribbean Carnival in Canada","poster":"N/A","imdb_id":"tt0223589","year":"1995","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9bff"},"title":"Ports Canada","poster":"N/A","imdb_id":"tt0223948","year":"1969","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9c00"},"title":"Winter in Canada","poster":"N/A","imdb_id":"tt0224401","year":"1953","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9c01"},"title":"Yellowknife, Canada","poster":"N/A","imdb_id":"tt0224425","year":"1948","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9c02"},"title":"Canada Remembers - Part One: Turning the Tide","poster":"N/A","imdb_id":"tt0224703","year":"1995","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9c03"},"title":"Canada Remembers - Part Three: Endings and Beginnings","poster":"N/A","imdb_id":"tt0224704","year":"1995","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9c04"},"title":"Canada Remembers - Part Two: The Liberators","poster":"N/A","imdb_id":"tt0224705","year":"1995","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9c05"},"title":"Canada Vignettes: Bill Reid","poster":"N/A","imdb_id":"tt0224706","year":"1979","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9c06"},"title":"Canada Vignettes: Bridging the Gap","poster":"N/A","imdb_id":"tt0224707","year":"1981","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9c07"},"title":"Canada Vignettes: Two Friends","poster":"N/A","imdb_id":"tt0225300","year":"1979","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9c08"},"title":"Canada Vignettes: Wild Rice Harvest Kenora","poster":"N/A","imdb_id":"tt0225304","year":"1979","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9c09"},"title":"Canada Vignettes: Winter - Dressing Up","poster":"N/A","imdb_id":"tt0225305","year":"1979","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9c0a"},"title":"Canada Vignettes: Winter - Starting the Car","poster":"N/A","imdb_id":"tt0225306","year":"1979","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9c0b"},"title":"Canada the Land","poster":"N/A","imdb_id":"tt0225319","year":"1969","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9c0c"},"title":"Canada vignettes: La mer enligne nos terres","poster":"N/A","imdb_id":"tt0225320","year":"1979","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9c0d"},"title":"Canada vignettes: Les nigogeux","poster":"N/A","imdb_id":"tt0225321","year":"1978","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9c0e"},"title":"Forest Regions of Canada","poster":"N/A","imdb_id":"tt0225776","year":"1966","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9c0f"},"title":"French Canada: 1534-1848","poster":"N/A","imdb_id":"tt0225803","year":"1950","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9c10"},"title":"Canada Vignettes: The Ballet Master","poster":"N/A","imdb_id":"tt0225285","year":"1978","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9c11"},"title":"Canada Vignettes: Mussel Mud","poster":"N/A","imdb_id":"tt0225276","year":"1985","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9c12"},"title":"Canada Vignettes: Prairie Promise","poster":"N/A","imdb_id":"tt0225281","year":"1980","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9c13"},"title":"Canada Vignettes: The Move","poster":"N/A","imdb_id":"tt0222898","year":"1985","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9c14"},"title":"Canada Vignettes: The Music Makers","poster":"N/A","imdb_id":"tt0222899","year":"1979","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9c15"},"title":"Canada Vignettes: Unity Pole","poster":"N/A","imdb_id":"tt0224709","year":"1979","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9c16"},"title":"Canada Vignettes: Birth","poster":"N/A","imdb_id":"tt0225250","year":"1980","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9c17"},"title":"Coasting Scene in Canada","poster":"N/A","imdb_id":"tt0224770","year":"1898","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9c18"},"title":"Coasting in Canada","poster":"N/A","imdb_id":"tt0224771","year":"1898","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9c19"},"title":"Canada 3-D","poster":"N/A","imdb_id":"tt0225245","year":"1999","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9c1a"},"title":"Canada Between Two World Wars","poster":"N/A","imdb_id":"tt0225246","year":"1963","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9c1b"},"title":"Canada Vignettes: Agnes Campbell MacPhail","poster":"N/A","imdb_id":"tt0225247","year":"1980","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9c1c"},"title":"Canada Vignettes: Alouette","poster":"N/A","imdb_id":"tt0225248","year":"1979","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9c1d"},"title":"Canada Vignettes: Celebration","poster":"N/A","imdb_id":"tt0225255","year":"1981","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9c1e"},"title":"Canada Vignettes: Countdown","poster":"N/A","imdb_id":"tt0225256","year":"1981","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9c1f"},"title":"Canada Vignettes: Helen Law","poster":"N/A","imdb_id":"tt0225265","year":"1979","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9c20"},"title":"Canada Vignettes: Homestead","poster":"N/A","imdb_id":"tt0225266","year":"1980","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9c21"},"title":"Canada Vignettes: Ice","poster":"N/A","imdb_id":"tt0225267","year":"1982","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9c22"},"title":"Canada Vignettes: June in Povungnituk - Quebec Arctic","poster":"N/A","imdb_id":"tt0225269","year":"1980","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9c23"},"title":"Canada Vignettes: Klondike Gold","poster":"N/A","imdb_id":"tt0225270","year":"1980","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9c24"},"title":"Batalla de las Americas (Canada Competition)","poster":"N/A","imdb_id":"tt2118831","year":"2008–","type":"series"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9c25"},"title":"Canada Remembers: Festival for Heroes","poster":"https://m.media-amazon.com/images/M/MV5BOTYwNTIzMTk3OF5BMl5BanBnXkFtZTgwOTk2OTQyMTE@._V1_SX300.jpg","imdb_id":"tt2132286","year":"2011","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9c26"},"title":"Miss Universe Canada 2005","poster":"N/A","imdb_id":"tt2132397","year":"2005","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9c27"},"title":"Miss Universe Canada 2007","poster":"N/A","imdb_id":"tt2140151","year":"2007","type":"movie"}
+{"_id":{"$oid":"5e7e718a52f3fac0d75b9c28"},"title":"Canada and the Liberation of the Netherlands","poster":"N/A","imdb_id":"tt2147864","year":"2005","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c29"},"title":"Miss Universe Canada 2008","poster":"N/A","imdb_id":"tt2149049","year":"2008","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c2a"},"title":"Street Scene in Winter in Montreal, Canada","poster":"N/A","imdb_id":"tt2150489","year":"1895","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c2b"},"title":"Bear Hunt in Canada","poster":"N/A","imdb_id":"tt2158399","year":"1908","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c2c"},"title":"Révélations Radio-Canada 2012-2013","poster":"N/A","imdb_id":"tt2165102","year":"2012","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c2d"},"title":"Coasting in Canada","poster":"N/A","imdb_id":"tt2185722","year":"1898","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c2e"},"title":"Canada a Vendre","poster":"N/A","imdb_id":"tt2188695","year":"2007","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c2f"},"title":"Canada: Part of the Pain","poster":"N/A","imdb_id":"tt2269302","year":"1981","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c30"},"title":"Canada: Apartheid Nation","poster":"N/A","imdb_id":"tt2281139","year":"2011","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c31"},"title":"Dolphins in Canada","poster":"N/A","imdb_id":"tt2294575","year":"2007","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c32"},"title":"Rolling Debut Revue Canada USA Tour 2002","poster":"N/A","imdb_id":"tt2309234","year":"2002","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c33"},"title":"Waging Peace: Canada in Afghanistan","poster":"N/A","imdb_id":"tt2321631","year":"2009","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c34"},"title":"Chevy Cross Canada Countdown","poster":"N/A","imdb_id":"tt2359805","year":"2007–","type":"series"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c35"},"title":"Cover Me Canada","poster":"N/A","imdb_id":"tt2117101","year":"2011–","type":"series"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c36"},"title":"Droit au Coeur (Radio-Canada)","poster":"N/A","imdb_id":"tt2065198","year":"2006–","type":"series"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c37"},"title":"Wood Industry in Canada","poster":"N/A","imdb_id":"tt2097853","year":"1907","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c38"},"title":"Wonders of Canada","poster":"N/A","imdb_id":"tt1786766","year":"1907","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c39"},"title":"Coal Face, Canada","poster":"N/A","imdb_id":"tt1778223","year":"1943","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c3a"},"title":"3rd World Canada","poster":"N/A","imdb_id":"tt1632452","year":"2010","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c3b"},"title":"Jekyll & Canada","poster":"N/A","imdb_id":"tt1645765","year":"2009","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c3c"},"title":"Salmon Fishing in Canada","poster":"N/A","imdb_id":"tt1161821","year":"1911","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c3d"},"title":"Code Green Canada","poster":"N/A","imdb_id":"tt0808031","year":"2006–","type":"series"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c3e"},"title":"Canada in the Rough","poster":"N/A","imdb_id":"tt1240578","year":"2006–","type":"series"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c3f"},"title":"Kid's View of Canada","poster":"N/A","imdb_id":"tt1327931","year":"1993","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c40"},"title":"The Great National Industries of Canada","poster":"N/A","imdb_id":"tt1329496","year":"1917","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c41"},"title":"Through Canada from Coast to Coast","poster":"N/A","imdb_id":"tt1329529","year":"1917","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c42"},"title":"Water Powers of Western Canada","poster":"N/A","imdb_id":"tt1329535","year":"1917","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c43"},"title":"Agricultural Opportunities in Western Canada","poster":"N/A","imdb_id":"tt1334201","year":"1917","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c44"},"title":"How Canada and the Farmer Co-operate in Grain Raising","poster":"N/A","imdb_id":"tt1334243","year":"1917","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c45"},"title":"The Mushuau Innu: Surviving Canada.","poster":"N/A","imdb_id":"tt1833814","year":"2004","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c46"},"title":"H.R.H. The Prince of Wales Decorating the Monument of Champlain and Receiving Addresses of Welcome from the Mayor of Quebec, the Governor General of Canada and Vice President Fairbanks, Representative of the United States","poster":"N/A","imdb_id":"tt1840920","year":"1908","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c47"},"title":"Ford Models Supermodel of the World Canada","poster":"N/A","imdb_id":"tt1844310","year":"2009","type":"series"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c48"},"title":"Picturesque Canada","poster":"N/A","imdb_id":"tt1855979","year":"1907","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c49"},"title":"Blowout: Is Canada Next?","poster":"N/A","imdb_id":"tt1870340","year":"2010","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c4a"},"title":"Spelling Night in Canada","poster":"N/A","imdb_id":"tt1895532","year":"2011","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c4b"},"title":"Moose Hunt in Canada","poster":"N/A","imdb_id":"tt1937250","year":"1906","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c4c"},"title":"An Ode to Canada","poster":"N/A","imdb_id":"tt1943654","year":"2011","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c4d"},"title":"Married in Canada","poster":"https://m.media-amazon.com/images/M/MV5BNDg3NzczNjcwN15BMl5BanBnXkFtZTgwMDk4NTA2MDE@._V1_SX300.jpg","imdb_id":"tt1945136","year":"2010","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c4e"},"title":"Fighting the Iroquois in Canada","poster":"N/A","imdb_id":"tt1951125","year":"1910","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c4f"},"title":"A Leap for Life; or, Trappers and Indians in Canada","poster":"N/A","imdb_id":"tt1961160","year":"1910","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c50"},"title":"Opre Roma: Gypsies in Canada","poster":"N/A","imdb_id":"tt1977878","year":"1999","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c51"},"title":"Canada Remembers: It's Time to Say Thanks","poster":"N/A","imdb_id":"tt1984126","year":"2005","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c52"},"title":"Canada Remembers: Our Lasting Legacy","poster":"N/A","imdb_id":"tt1984127","year":"2008","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c53"},"title":"Canada Remembers: Their Achievements and Sacrifices","poster":"N/A","imdb_id":"tt1984128","year":"2009","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c54"},"title":"Canada Remembers: Women Who Have Served and Sacrificed","poster":"N/A","imdb_id":"tt1984129","year":"2010","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c55"},"title":"Four Houses Canada","poster":"N/A","imdb_id":"tt3588820","year":"2012–2013","type":"series"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c56"},"title":"La cabane au Canada","poster":"N/A","imdb_id":"tt3633212","year":"1951","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c57"},"title":"Fabrication de la pulpe à papier au Canada","poster":"N/A","imdb_id":"tt3538626","year":"1909","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c58"},"title":"Trip Through Canada","poster":"N/A","imdb_id":"tt3541310","year":"1906","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c59"},"title":"Hispanos en Canada","poster":"N/A","imdb_id":"tt4135022","year":"2002–2013","type":"series"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c5a"},"title":"Hardball Canada","poster":"N/A","imdb_id":"tt4177598","year":"2014","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c5b"},"title":"Final Draw for Canada 2015","poster":"N/A","imdb_id":"tt4259228","year":"2014","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c5c"},"title":"Represent the RED: Cricket Canada","poster":"N/A","imdb_id":"tt4339934","year":"2015","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c5d"},"title":"Only the Essential: A Hike from Mexico to Canada on the Pacific Crest Trail","poster":"N/A","imdb_id":"tt4360234","year":"2014","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c5e"},"title":"Expedición Gourmet Canada","poster":"N/A","imdb_id":"tt3728706","year":"2014","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c5f"},"title":"Aboriginal Adventures Canada","poster":"N/A","imdb_id":"tt3734164","year":"2012–2014","type":"series"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c60"},"title":"Anyplace Wild Worlds Wildest Highway Mtn Biking the Dempster Highway Canada","poster":"N/A","imdb_id":"tt3801280","year":"2000–","type":"series"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c61"},"title":"Le sexe au Canada","poster":"N/A","imdb_id":"tt3807892","year":"2012","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c62"},"title":"Royal Visit to Canada","poster":"N/A","imdb_id":"tt3864318","year":"1908","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c63"},"title":"Miss World Canada: Pageant Week 2014","poster":"N/A","imdb_id":"tt3893936","year":"2014","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c64"},"title":"TOP 5: Canadá","poster":"N/A","imdb_id":"tt4045868","year":"2012","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c65"},"title":"A Ripper in Canada: Paranormal Encounters from the Great White North","poster":"https://m.media-amazon.com/images/M/MV5BOTA3MTM1Mjg4Nl5BMl5BanBnXkFtZTgwMTAzMTg5MzE@._V1_SX300.jpg","imdb_id":"tt4112848","year":"2014","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c66"},"title":"Real Estate Institue of Canada","poster":"N/A","imdb_id":"tt4943718","year":"2015","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c67"},"title":"Hotel Canada","poster":"N/A","imdb_id":"tt5022932","year":"2012","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c68"},"title":"Harvesting Scenes in Western Canada","poster":"N/A","imdb_id":"tt5040484","year":"1910","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c69"},"title":"Lakes of Canada: Live at Studio Breakglass","poster":"N/A","imdb_id":"tt4411532","year":"2016","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c6a"},"title":"Still Trippin' the Trans-Canada Highway","poster":"https://m.media-amazon.com/images/M/MV5BNjczOTMyNTY3NV5BMl5BanBnXkFtZTgwMTk5MDU1NTE@._V1_SX300.jpg","imdb_id":"tt4590990","year":"2013","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c6b"},"title":"Kudi Canada Di","poster":"N/A","imdb_id":"tt4636134","year":"1993","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c6c"},"title":"Immigrants' Progress in Canada","poster":"N/A","imdb_id":"tt4672014","year":"1910","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c6d"},"title":"Stampede's Sexiest Cowgirls in Lovely Alberta, Canada","poster":"N/A","imdb_id":"tt4673510","year":"2014","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c6e"},"title":"A Kid's View of Canada II","poster":"https://m.media-amazon.com/images/M/MV5BMTc5NDAwNTM3N15BMl5BanBnXkFtZTgwNTgyMzUxNzE@._V1_SX300.jpg","imdb_id":"tt4714724","year":"1998","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c6f"},"title":"Canada Day","poster":"N/A","imdb_id":"tt4740590","year":"1955","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c70"},"title":"Henry Darcy Distinguised Lecture: Transport & Geochemical Controls on Solutes in a Clay-rich Aquitard System in Southern Saskatchewan, Canada","poster":"N/A","imdb_id":"tt4771318","year":"2000","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c71"},"title":"La Course Musicale De La Gendarmerie Royale Du Canada","poster":"N/A","imdb_id":"tt4777352","year":"1969","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c72"},"title":"Wandering Canada","poster":"N/A","imdb_id":"tt2369466","year":"2005–","type":"series"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c73"},"title":"Chasing Canada","poster":"N/A","imdb_id":"tt2380946","year":"2010","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c74"},"title":"Canada - Das Land der eigenen Scholle","poster":"N/A","imdb_id":"tt2386330","year":"1928","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c75"},"title":"Tract of Land (Life on Reserve in Canada)","poster":"N/A","imdb_id":"tt2386345","year":"2012","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c76"},"title":"Révélation Radio-Canada","poster":"N/A","imdb_id":"tt2387372","year":"2012","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c77"},"title":"Opening Ceremony of 2011 Canada Winter Games","poster":"N/A","imdb_id":"tt2403580","year":"2011","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c78"},"title":"Opening Ceremonies of 2007 Canada Winter Games","poster":"N/A","imdb_id":"tt2403960","year":"2007","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c79"},"title":"Life in the Slow Lane: Heavy Horse Farming in Canada","poster":"N/A","imdb_id":"tt2797614","year":"2013","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c7a"},"title":"Empress of Canada Leaving Vancouver","poster":"N/A","imdb_id":"tt2824924","year":"1903","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c7b"},"title":"The Fish'n Canada Show","poster":"N/A","imdb_id":"tt2833966","year":"2011–","type":"series"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c7c"},"title":"Come Date With Me Canada","poster":"N/A","imdb_id":"tt2852098","year":"2013–","type":"series"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c7d"},"title":"Scottish Curlers Visiting Canada","poster":"N/A","imdb_id":"tt2877378","year":"1903","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c7e"},"title":"Be the Boss Canada","poster":"N/A","imdb_id":"tt2891714","year":"2013–","type":"series"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c7f"},"title":"Mr. Gay Canada","poster":"https://m.media-amazon.com/images/M/MV5BZDVjMjhlNTQtZDMxZC00YjhlLThkMDctOTdjZjExNjIxOTNiXkEyXkFqcGdeQXVyNTc4ODMxMjU@._V1_SX300.jpg","imdb_id":"tt2937680","year":"2008–","type":"series"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c80"},"title":"The Prairies of Canada","poster":"N/A","imdb_id":"tt2938708","year":"2013","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c81"},"title":"The O Canada Project","poster":"N/A","imdb_id":"tt2948254","year":"2011","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c82"},"title":"Made in Canada","poster":"https://m.media-amazon.com/images/M/MV5BMjI1NzE2OTY2MV5BMl5BanBnXkFtZTcwOTQ4ODc2OQ@@._V1_SX300.jpg","imdb_id":"tt2965262","year":"2013","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c83"},"title":"Lord Dundonald Leaving Canada","poster":"N/A","imdb_id":"tt2999470","year":"1904","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c84"},"title":"Authentic: Young Rival's Journey Through Canada","poster":"N/A","imdb_id":"tt3015184","year":"2013","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c85"},"title":"Cross Canada","poster":"N/A","imdb_id":"tt2527344","year":"2010","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c86"},"title":"Canada 1812: Forged in Fire","poster":"N/A","imdb_id":"tt2597780","year":"2012","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c87"},"title":"Winter Life in Canada: Documentary of Snowboard","poster":"N/A","imdb_id":"tt2624398","year":"2010","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c88"},"title":"MTV News Canada","poster":"N/A","imdb_id":"tt2709060","year":"2008–","type":"series"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c89"},"title":"Colonisation in Canada","poster":"N/A","imdb_id":"tt3172610","year":"1905","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c8a"},"title":"Panoramic Bird's Eye View of Montreal, Canada","poster":"N/A","imdb_id":"tt3185734","year":"1905","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c8b"},"title":"True Crime Canada","poster":"N/A","imdb_id":"tt3201578","year":"2013–","type":"series"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c8c"},"title":"Van Son 35 in Canada","poster":"N/A","imdb_id":"tt3493742","year":"2006","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c8d"},"title":"The Republic of Canada: Freedom Rebels of 1837 - Samuel Lount & Peter Matthews","poster":"N/A","imdb_id":"tt3097718","year":"1993","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c8e"},"title":"Canada Rocks the Capital","poster":"N/A","imdb_id":"tt3308532","year":"2009","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c8f"},"title":"Oh Canada! The Story of the 1992 World Champion Blue Jays","poster":"N/A","imdb_id":"tt3327168","year":"1992","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c90"},"title":"Canada","poster":"N/A","imdb_id":"tt3350332","year":"2013","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c91"},"title":"Gord Bamford Christmas in Canada","poster":"N/A","imdb_id":"tt3411822","year":"2013","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c92"},"title":"First Dates Canada","poster":"N/A","imdb_id":"tt5065628","year":"2015–","type":"series"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c93"},"title":"Canada Is My Piano","poster":"N/A","imdb_id":"tt5066096","year":"1967","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c94"},"title":"The Building of a Transcontinental Railway in Canada","poster":"N/A","imdb_id":"tt5121784","year":"1910","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c95"},"title":"Canada oh no","poster":"N/A","imdb_id":"tt5159312","year":"2015","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c96"},"title":"Local Live Canada","poster":"N/A","imdb_id":"tt5170812","year":"2013–","type":"series"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c97"},"title":"The Apple Industry in Canada","poster":"N/A","imdb_id":"tt5201980","year":"1910","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c98"},"title":"A History of Residential Schools in Canada","poster":"N/A","imdb_id":"tt5217818","year":"2012","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c99"},"title":"FIFA Women's World Cup Canada 2015: Opening Ceremony","poster":"N/A","imdb_id":"tt5255482","year":"2015","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c9a"},"title":"Sharia in Canada: Something to Fear?","poster":"N/A","imdb_id":"tt5263688","year":"2005","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c9b"},"title":"Sharia in Canada: The Pitfalls of Diversity","poster":"N/A","imdb_id":"tt5267636","year":"2005","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c9c"},"title":"The Hong Kong Connection - Canada and the New China","poster":"N/A","imdb_id":"tt5453110","year":"2005","type":"series"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c9d"},"title":"Good Luck Canada!","poster":"N/A","imdb_id":"tt5471722","year":"1952","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c9e"},"title":"Best of Vice Canada: First Out Here- Indigenous Hip Hop","poster":"N/A","imdb_id":"tt5477592","year":"2016","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9c9f"},"title":"Canada in Perspective","poster":"N/A","imdb_id":"tt5521472","year":"2015–","type":"series"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9ca0"},"title":"Na Kar Badnam Canada Nu","poster":"N/A","imdb_id":"tt5581532","year":"2005","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9ca1"},"title":"Why You Won't Actually Move to Canada: Even If Trump Wins","poster":"N/A","imdb_id":"tt5661562","year":"2016","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9ca2"},"title":"Up in Arms: How the Gun Lobby Is Changing Canada","poster":"N/A","imdb_id":"tt5705422","year":"2015","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9ca3"},"title":"Balls of Canada","poster":"N/A","imdb_id":"tt5712302","year":"2016","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9ca4"},"title":"How to Survive in Canada","poster":"https://m.media-amazon.com/images/M/MV5BY2Q0MDlkMTYtMTE5Ni00OWJkLTllY2QtMDM0YzJiMjQwYzc5XkEyXkFqcGdeQXVyNjczNDE3NTA@._V1_SX300.jpg","imdb_id":"tt5747454","year":"2016","type":"series"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9ca5"},"title":"Canada Hunts West","poster":"https://m.media-amazon.com/images/M/MV5BOTYxZjc1MTMtMjc3OC00NzM1LWJiNmUtMmNlNjdkMDlhYTIyXkEyXkFqcGdeQXVyMjQ0MDI1MjE@._V1_SX300.jpg","imdb_id":"tt7374910","year":"2018–","type":"series"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9ca6"},"title":"Canada Hunts East","poster":"https://m.media-amazon.com/images/M/MV5BMDBkMmY4MDMtOGM3MC00YWI2LTk2MWMtMzU2MGU0YzJiYmZmXkEyXkFqcGdeQXVyMjQ0MDI1MjE@._V1_SX300.jpg","imdb_id":"tt7378926","year":"2017–","type":"series"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9ca7"},"title":"We Are Canada","poster":"N/A","imdb_id":"tt7528774","year":"2017","type":"series"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9ca8"},"title":"Whoa Canada","poster":"https://m.media-amazon.com/images/M/MV5BNGNiNTA0YjAtYWRhYy00MDBlLWI5ZmYtOWJmYzU3MTc1ZWM5XkEyXkFqcGdeQXVyODI3NTYwMDc@._V1_SX300.jpg","imdb_id":"tt7571852","year":"2015","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9ca9"},"title":"150 Years: Canada Yesterday, Today, Tomorrow","poster":"https://m.media-amazon.com/images/M/MV5BMDYyODlmMGUtZWE3Ni00NTUyLWJhNzctYzE0YmMwNDBjOTJmXkEyXkFqcGdeQXVyMTUzNzY3NQ@@._V1_SX300.jpg","imdb_id":"tt7608868","year":"2017","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9caa"},"title":"Canada Crew","poster":"https://m.media-amazon.com/images/M/MV5BYTgyZmZkMjMtODk3YS00M2E3LWIzNTctMDM3OWYzNDk0YzMyXkEyXkFqcGdeQXVyODI0OTg2Nzc@._V1_SX300.jpg","imdb_id":"tt7653498","year":"2017","type":"series"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9cab"},"title":"Seeing Canada","poster":"N/A","imdb_id":"tt7678650","year":"2017–","type":"series"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9cac"},"title":"Bons baisers du Canada","poster":"N/A","imdb_id":"tt7763940","year":"2011","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9cad"},"title":"Fake Hate Crime in Canada as Police Admit Hijab Scissors Attack Never Happened","poster":"https://m.media-amazon.com/images/M/MV5BZmYwNjcyZTQtNDEwMC00OGZiLTg0NWYtZjBmYmE4YjJiZTVkXkEyXkFqcGdeQXVyMDY3OTcyOQ@@._V1_SX300.jpg","imdb_id":"tt7885398","year":"2018","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9cae"},"title":"Brand Canada","poster":"https://m.media-amazon.com/images/M/MV5BMDNmMGEwOGYtNWQ2Mi00NmEyLWEzMTYtYzM2M2VlM2JkYmUwXkEyXkFqcGdeQXVyMjA2ODA5MjQ@._V1_SX300.jpg","imdb_id":"tt7948346","year":"2017–","type":"series"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9caf"},"title":"Moral Panic: Canada Man Faces Leftist Ire for Fundraising Despite Being Found Not Guilty of Murder","poster":"https://m.media-amazon.com/images/M/MV5BNzUxMjI1ZDQtNWExYS00Y2NkLThlMTMtMDkwZThkY2UxMDY5XkEyXkFqcGdeQXVyMDY3OTcyOQ@@._V1_SX300.jpg","imdb_id":"tt8005756","year":"2018","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9cb0"},"title":"Trail Tales: A journey from Mexico to Canada","poster":"N/A","imdb_id":"tt8286922","year":"2017","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9cb1"},"title":"30 Takes: Three Decades of Independent Filmmaking in Atlantic Canada","poster":"N/A","imdb_id":"tt6163912","year":"2004","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9cb2"},"title":"Yes I Canada","poster":"https://m.media-amazon.com/images/M/MV5BMWQ2ODIzNmUtN2ZkNC00MjNlLWFjNDUtMWEyOTU4YmIxZGIwL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjA2OTY3OTE@._V1_SX300.jpg","imdb_id":"tt6265808","year":"2016","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9cb3"},"title":"Mother Canada","poster":"https://m.media-amazon.com/images/M/MV5BNDNhNGJkM2ItOTlkYi00MzQ4LTk3ZTctYTYyOWY0N2I4ZWUyXkEyXkFqcGdeQXVyOTc4MTU4Mg@@._V1_SX300.jpg","imdb_id":"tt6290796","year":"2017","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9cb4"},"title":"La pratique du loisir au Canada","poster":"https://m.media-amazon.com/images/M/MV5BYzgwYWExODctNjg2ZC00NDQxLWExMjgtMDg4NmZlZDIxZTg1L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNzA1Nzc3MjA@._V1_SX300.jpg","imdb_id":"tt6353290","year":"2016","type":"series"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9cb5"},"title":"Welcome to Canada","poster":"https://m.media-amazon.com/images/M/MV5BZGYxNjdiOTItODEzNC00YzkxLWE1NGEtMGQ5NmMwNzFmZmFkL2ltYWdlXkEyXkFqcGdeQXVyNzExOTIwNzE@._V1_SX300.jpg","imdb_id":"tt6368064","year":"2012","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9cb6"},"title":"AEON Canada with Satomi Ishihara","poster":"https://m.media-amazon.com/images/M/MV5BM2QxZWZhMjUtMzBjNi00MGNiLTlkZWMtODYxN2E2OTYyMDZlXkEyXkFqcGdeQXVyNDIwMjc0ODc@._V1_SX300.jpg","imdb_id":"tt6633432","year":"2017","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9cb7"},"title":"Denying God's Creatures: The Trappist Monastery of Our Lady of Calvary - New Brunswick, Canada 2009","poster":"N/A","imdb_id":"tt6720918","year":"2009","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9cb8"},"title":"Keeping Canada Safe","poster":"https://ia.media-imdb.com/images/M/MV5BOWEzZWVmNDctMjI5Yy00NmNmLTg0NjEtMDY5MGMyZjUyYWE4XkEyXkFqcGdeQXVyMjM3NDAzMjY@._V1_SX300.jpg","imdb_id":"tt6764048","year":"2017","type":"series"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9cb9"},"title":"Canada in the Frame","poster":"https://m.media-amazon.com/images/M/MV5BYjZhOTM0YTItOWY4Mi00OWM0LTg5NjctNThhOTJkYTE3OWYyXkEyXkFqcGdeQXVyMTg3ODk1OTM@._V1_SX300.jpg","imdb_id":"tt6852666","year":"2015","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9cba"},"title":"Le téléthéâtre de Radio-Canada","poster":"https://m.media-amazon.com/images/M/MV5BOGZlNWY4YzktNzBkNi00NDY1LTk4NmYtMGY2ZmQ1YjI1ZTJkXkEyXkFqcGdeQXVyNzI4MDMyMTU@._V1_SX300.jpg","imdb_id":"tt8835818","year":"1954–1969","type":"series"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9cbb"},"title":"Saving Canada - The Inside Story of the Three Percenters Group","poster":"https://m.media-amazon.com/images/M/MV5BZTY1OTczYzctOWZlNS00YmNlLTg2M2ItZGIzMmQ4OWE0MDVhXkEyXkFqcGdeQXVyOTE1MTg3MjI@._V1_SX300.jpg","imdb_id":"tt8959394","year":"2019","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9cbc"},"title":"Canada: Nova Scotia to British Columbia","poster":"N/A","imdb_id":"tt8966082","year":"1911","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9cbd"},"title":"Canada on My Mind: Cynthia Preston on the Brain","poster":"https://m.media-amazon.com/images/M/MV5BNzk3YWQ3ODktM2IxOS00ZWY4LTgzY2QtOWU5NTcyZGRlOGI1XkEyXkFqcGdeQXVyMjIxOTE5OTU@._V1_SX300.jpg","imdb_id":"tt10198328","year":"2019","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9cbe"},"title":"Orphans of the Storm: British WWII Children Refugees in US and Canada","poster":"https://m.media-amazon.com/images/M/MV5BYjQyNzRkZTctMDEwMi00ZTY0LWI3MmItOWU4NzUwZGMyNjlhXkEyXkFqcGdeQXVyNzI4MDMyMTU@._V1_SX300.jpg","imdb_id":"tt10208480","year":"1989","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9cbf"},"title":"The New Canada","poster":"N/A","imdb_id":"tt5811152","year":"2016","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9cc0"},"title":"Small Town Canada at War","poster":"https://m.media-amazon.com/images/M/MV5BZTE5MzYxYWEtYzFhZC00ODMzLTljYjMtZmJjMTllNjMyODUwXkEyXkFqcGdeQXVyNjM2NTk3MjI@._V1_SX300.jpg","imdb_id":"tt5824762","year":"2015–","type":"series"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9cc1"},"title":"The 6th Annual Canada Salsa Congress","poster":"N/A","imdb_id":"tt6027124","year":"2008","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9cc2"},"title":"Freedom Fight: Canada vs. USA","poster":"https://m.media-amazon.com/images/M/MV5BNzM0YzUxZDMtZjg1Yy00OThkLWEwMTItMzkzNDQyYWY1NTYyXkEyXkFqcGdeQXVyNDAyMTQ3MjU@._V1_SX300.jpg","imdb_id":"tt6059104","year":"2006","type":"movie"}
+{"_id":{"$oid":"5e7e718b52f3fac0d75b9cc3"},"title":"The Bachelorette Canada After Show","poster":"N/A","imdb_id":"tt6059378","year":"2016–","type":"series"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9cc4"},"title":"Monsters University","poster":"https://m.media-amazon.com/images/M/MV5BMTUyODgwMDU3M15BMl5BanBnXkFtZTcwOTM4MjcxOQ@@._V1_SX300.jpg","imdb_id":"tt1453405","year":"2013","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9cc5"},"title":"The Dover Boys at Pimento University or The Rivals of Roquefort Hall","poster":"https://m.media-amazon.com/images/M/MV5BN2ZmMDJhYmEtOWJlOS00NTY1LThlMjctMmI0NGFiOTk3ZGFjXkEyXkFqcGdeQXVyNzU3NTk0NjA@._V1_SX300.jpg","imdb_id":"tt0034675","year":"1942","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9cc6"},"title":"Splatter University","poster":"https://m.media-amazon.com/images/M/MV5BNWMzZDJlZmMtZTQ0NC00Y2ZhLWI2NjEtMGMyZGFkZTkwMDBhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg","imdb_id":"tt0125510","year":"1984","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9cc7"},"title":"Sa'eedi in the American University","poster":"https://m.media-amazon.com/images/M/MV5BOTU0YWMxMDctNGY2YS00M2RkLThlZDgtM2I0Zjk0YjUxMDMwXkEyXkFqcGdeQXVyMjg0MzMwNzg@._V1_SX300.jpg","imdb_id":"tt0389340","year":"1998","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9cc8"},"title":"University of Laughs","poster":"https://m.media-amazon.com/images/M/MV5BZGIzMWRhMGUtNjdhYS00N2FlLTljYTUtNzg5ODNlMmY0ODdiXkEyXkFqcGdeQXVyNTEwMzkyODI@._V1_SX300.jpg","imdb_id":"tt0436886","year":"2004","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9cc9"},"title":"University Challenge","poster":"https://m.media-amazon.com/images/M/MV5BZDBhZTk0YjItNTlhZS00MzVlLWE5N2QtM2U5OTU5MWY0NTIzXkEyXkFqcGdeQXVyMTEzNjA2NzM@._V1_SX300.jpg","imdb_id":"tt0177465","year":"1962–","type":"series"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9cca"},"title":"Demolition University","poster":"https://m.media-amazon.com/images/M/MV5BMTY0ODcwOTI4Nl5BMl5BanBnXkFtZTgwNDc0NTAwNzE@._V1_SX300.jpg","imdb_id":"tt0179761","year":"1997","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9ccb"},"title":"Nursery University","poster":"https://m.media-amazon.com/images/M/MV5BODIyOTQzNTUxOF5BMl5BanBnXkFtZTcwMTUyMzM0Mg@@._V1_SX300.jpg","imdb_id":"tt1213832","year":"2008","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9ccc"},"title":"Derek Zoolander University","poster":"N/A","imdb_id":"tt0291852","year":"1997","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9ccd"},"title":"Murder University","poster":"https://m.media-amazon.com/images/M/MV5BMzYwMDg5MTQwNl5BMl5BanBnXkFtZTgwNTIxODE1MDE@._V1_SX300.jpg","imdb_id":"tt2234299","year":"2012","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9cce"},"title":"Stanford University, California","poster":"N/A","imdb_id":"tt0218626","year":"1897","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9ccf"},"title":"University of Andy","poster":"N/A","imdb_id":"tt1535406","year":"2009–","type":"series"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9cd0"},"title":"For-Profit Online University","poster":"N/A","imdb_id":"tt3416790","year":"2013","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9cd1"},"title":"Miskatonic University","poster":"https://m.media-amazon.com/images/M/MV5BODkwOTYxOTAxMl5BMl5BanBnXkFtZTgwNzczODIxMDE@._V1_SX300.jpg","imdb_id":"tt3135404","year":"2014","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9cd2"},"title":"University Heights","poster":"N/A","imdb_id":"tt0415342","year":"2004","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9cd3"},"title":"University Procession on Degree Day, Birmingham","poster":"N/A","imdb_id":"tt0471417","year":"1901","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9cd4"},"title":"University Hospital","poster":"https://m.media-amazon.com/images/M/MV5BYzgzYWQ4NzMtMWUwMC00MjM4LTg4ZmEtZTAyZjg3NTU2Zjg3XkEyXkFqcGdeQXVyMDAyMTY3Nw@@._V1_SX300.jpg","imdb_id":"tt0108973","year":"1995–","type":"series"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9cd5"},"title":"Whose University Is It?","poster":"https://m.media-amazon.com/images/M/MV5BMTc1ODIyMDM2OV5BMl5BanBnXkFtZTcwNzk2ODc5Mw@@._V1_SX300.jpg","imdb_id":"tt0385338","year":"2003","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9cd6"},"title":"Aberdeen University Quarter Centenary Celebrations","poster":"N/A","imdb_id":"tt1666731","year":"1906","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9cd7"},"title":"TYT University","poster":"N/A","imdb_id":"tt2300439","year":"2011–","type":"series"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9cd8"},"title":"University, Inc.","poster":"N/A","imdb_id":"tt0217123","year":"1999","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9cd9"},"title":"The Oxford and Cambridge University Boat Race","poster":"N/A","imdb_id":"tt0000025","year":"1895","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9cda"},"title":"The University of Illinois vs. a Mummy","poster":"N/A","imdb_id":"tt1273816","year":"2006","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9cdb"},"title":"Inside the Walking Dead: Walker University","poster":"N/A","imdb_id":"tt3903528","year":"2014","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9cdc"},"title":"University Place: Friends and Lovers","poster":"N/A","imdb_id":"tt0811132","year":"2005","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9cdd"},"title":"Comic Relief Does University Challenge","poster":"N/A","imdb_id":"tt0452602","year":"2005","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9cde"},"title":"Superman vs. Doomsday at the University of South Florida","poster":"N/A","imdb_id":"tt1979352","year":"2011","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9cdf"},"title":"The University Player","poster":"https://m.media-amazon.com/images/M/MV5BMjIwODUwMDQ5Nl5BMl5BanBnXkFtZTgwMjAzMjQyMTE@._V1_SX300.jpg","imdb_id":"tt0811133","year":"2006","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9ce0"},"title":"University Challenge: The Story So Far","poster":"N/A","imdb_id":"tt0903030","year":"2006","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9ce1"},"title":"University","poster":"N/A","imdb_id":"tt1837702","year":"2009","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9ce2"},"title":"Comic Relief Does University Challenge","poster":"N/A","imdb_id":"tt0462233","year":"2003","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9ce3"},"title":"40 Years of University Challenge","poster":"N/A","imdb_id":"tt0331818","year":"2002","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9ce4"},"title":"The University College of Oxford Winning the Ladies' Challenge Plate","poster":"N/A","imdb_id":"tt0380040","year":"1902","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9ce5"},"title":"University Heights: A Look Behind the Scenes","poster":"N/A","imdb_id":"tt0452887","year":"2004","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9ce6"},"title":"Rice University","poster":"N/A","imdb_id":"tt0423071","year":"1971","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9ce7"},"title":"Crime Scene University","poster":"https://m.media-amazon.com/images/M/MV5BMjEwMTQ2Mzg1Nl5BMl5BanBnXkFtZTcwNjY4NTk5Mw@@._V1_SX300.jpg","imdb_id":"tt1270818","year":"2008–","type":"series"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9ce8"},"title":"Maicching Machiko Teacher - Mission: Challenging Tokyo University","poster":"N/A","imdb_id":"tt1080712","year":"2006","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9ce9"},"title":"The History of University of Kentucky Basketball","poster":"N/A","imdb_id":"tt1173903","year":"2007","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9cea"},"title":"A Royal Occasion at the University of London","poster":"N/A","imdb_id":"tt0929789","year":"1957","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9ceb"},"title":"Takeshi Kitano Presents Comaneci University Mathematics","poster":"N/A","imdb_id":"tt1024699","year":"2006–","type":"series"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9cec"},"title":"Fishing University","poster":"N/A","imdb_id":"tt0863045","year":"1995–","type":"series"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9ced"},"title":"University Place","poster":"N/A","imdb_id":"tt0887167","year":"2005","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9cee"},"title":"Liberty University Baccalaureate Service","poster":"N/A","imdb_id":"tt1283918","year":"2008","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9cef"},"title":"Liberty University Convocation Live","poster":"N/A","imdb_id":"tt1289053","year":"2006–","type":"series"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9cf0"},"title":"Liberty University Baccalaureate Service","poster":"N/A","imdb_id":"tt1292027","year":"2005","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9cf1"},"title":"Liberty University Game of the Week","poster":"N/A","imdb_id":"tt1338842","year":"2006–","type":"series"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9cf2"},"title":"Liberty University Graduation Commencement","poster":"N/A","imdb_id":"tt1342995","year":"2005","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9cf3"},"title":"Frongoch University for Revolution","poster":"N/A","imdb_id":"tt1366333","year":"2007","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9cf4"},"title":"Princeton: Images of a University","poster":"N/A","imdb_id":"tt1376226","year":"1996","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9cf5"},"title":"Aachen University: A Look Inside","poster":"https://m.media-amazon.com/images/M/MV5BMTI1OTI2MTQwMl5BMl5BanBnXkFtZTcwNzI4NjU3MQ@@._V1_SX300.jpg","imdb_id":"tt1245448","year":"2003","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9cf6"},"title":"Peter Eisenman: University of Phoenix Stadium for the Arizona Cardinals","poster":"N/A","imdb_id":"tt1543226","year":"2008","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9cf7"},"title":"The Battle of Comm Ave.: Boston University vs. Boston College","poster":"N/A","imdb_id":"tt1571415","year":"2009","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9cf8"},"title":"Nicks University of Niche Studies","poster":"N/A","imdb_id":"tt1621845","year":"2010","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9cf9"},"title":"Mission: Studying at the University in Mytilene, Lesvos","poster":"N/A","imdb_id":"tt1645075","year":"2007","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9cfa"},"title":"Memorial University Promotional Films","poster":"N/A","imdb_id":"tt1870474","year":"2009","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9cfb"},"title":"Quinnipiac University Bobcats Unleashed","poster":"N/A","imdb_id":"tt1933144","year":"2010–","type":"series"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9cfc"},"title":"Thundarr University","poster":"N/A","imdb_id":"tt1937423","year":"2002","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9cfd"},"title":"The University Avenue Project: Wing Young Huie","poster":"N/A","imdb_id":"tt1951284","year":"2011","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9cfe"},"title":"Women at University","poster":"N/A","imdb_id":"tt1954677","year":"1989","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9cff"},"title":"Hebrew University","poster":"N/A","imdb_id":"tt1726645","year":"1973","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9d00"},"title":"Top Chef University: Getting Started","poster":"N/A","imdb_id":"tt1783405","year":"2010","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9d01"},"title":"Fishing University","poster":"N/A","imdb_id":"tt1815044","year":"2011–","type":"series"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9d02"},"title":"University of the Streets: The Prequel","poster":"N/A","imdb_id":"tt1823263","year":"2010","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9d03"},"title":"The University of Nuclear Bombs","poster":"N/A","imdb_id":"tt1832502","year":"2010","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9d04"},"title":"Dodge University: The Movie","poster":"N/A","imdb_id":"tt0449511","year":"2002","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9d05"},"title":"University Tycoon","poster":"N/A","imdb_id":"tt0497461","year":"2004","type":"game"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9d06"},"title":"Your University","poster":"N/A","imdb_id":"tt0414699","year":"1948","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9d07"},"title":"University of Southern California Band and Glee Club","poster":"N/A","imdb_id":"tt0346090","year":"1941","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9d08"},"title":"Cornell-Columbia-University of Pennsylvania Boat Race at Ithaca, N.Y., Showing Lehigh Valley Observation Train","poster":"N/A","imdb_id":"tt0357570","year":"1901","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9d09"},"title":"Installation Ceremonies, Columbia University","poster":"N/A","imdb_id":"tt0367886","year":"1902","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9d0a"},"title":"University Challenge: The Professionals","poster":"N/A","imdb_id":"tt0372105","year":"2003–2008","type":"series"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9d0b"},"title":"The University Greys: From Students to Soldiers","poster":"N/A","imdb_id":"tt0378944","year":"2003","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9d0c"},"title":"Oz University","poster":"N/A","imdb_id":"tt0028073","year":"1936","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9d0d"},"title":"University","poster":"N/A","imdb_id":"tt0224329","year":"1961","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9d0e"},"title":"Oxford and Cambridge University Boat Crews","poster":"N/A","imdb_id":"tt0243468","year":"1899","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9d0f"},"title":"Pole Vaulting at Columbia University","poster":"N/A","imdb_id":"tt0243496","year":"1899","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9d10"},"title":"Dancing University","poster":"N/A","imdb_id":"tt0310892","year":"1985","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9d11"},"title":"Eccentric Boys of the University","poster":"N/A","imdb_id":"tt0310963","year":"1984","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9d12"},"title":"Moonlight Over a University Town","poster":"N/A","imdb_id":"tt0330190","year":"1990","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9d13"},"title":"University Challenge: Class of 2014","poster":"N/A","imdb_id":"tt3905426","year":"2014","type":"series"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9d14"},"title":"Silent University","poster":"N/A","imdb_id":"tt3974312","year":"2013","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9d15"},"title":"Fun University 3: Full Metal Jack Off","poster":"N/A","imdb_id":"tt3994472","year":"2015","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9d16"},"title":"University","poster":"N/A","imdb_id":"tt4032738","year":"2017","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9d17"},"title":"How to Survive University (Without Really Trying)","poster":"N/A","imdb_id":"tt4040654","year":"2014–","type":"series"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9d18"},"title":"University of Utah Zumba Fitness: Caipirinha","poster":"N/A","imdb_id":"tt4215122","year":"2010","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9d19"},"title":"Colorado State University of Pueblo: Legendary","poster":"N/A","imdb_id":"tt4273362","year":"2015","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9d1a"},"title":"Wassail at Chapman University","poster":"N/A","imdb_id":"tt4299238","year":"2014","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9d1b"},"title":"Helsing University","poster":"https://m.media-amazon.com/images/M/MV5BNTY2MzI4NDM0NF5BMl5BanBnXkFtZTgwNjAwODM2NTE@._V1_SX300.jpg","imdb_id":"tt4299920","year":"2015","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9d1c"},"title":"Leenden University","poster":"N/A","imdb_id":"tt4344640","year":"2015–","type":"series"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9d1d"},"title":"Philistines: Live at the University of Regina","poster":"https://m.media-amazon.com/images/M/MV5BMzY1MDc3NTAwOV5BMl5BanBnXkFtZTgwMzA5MDkxNjE@._V1_SX300.jpg","imdb_id":"tt4457962","year":"2014","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9d1e"},"title":"Introduction to Smart Life University","poster":"https://m.media-amazon.com/images/M/MV5BMTg1NTQ1NzY4M15BMl5BanBnXkFtZTgwODc3OTI4NTE@._V1_SX300.jpg","imdb_id":"tt4624822","year":"2014","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9d1f"},"title":"University Boat Race","poster":"N/A","imdb_id":"tt4723268","year":"1909","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9d20"},"title":"Holmes University: The Master Blackmailer","poster":"https://m.media-amazon.com/images/M/MV5BOGEzYzgyOTUtNGFmYi00YWI3LTlkMzUtOGVmNGI1NGFlOTdlXkEyXkFqcGdeQXVyMjI5NjY4MDI@._V1_SX300.jpg","imdb_id":"tt4726018","year":"2013","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9d21"},"title":"2014 National University Holiday Bowl","poster":"N/A","imdb_id":"tt4746042","year":"2014","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9d22"},"title":"Columbia University","poster":"N/A","imdb_id":"tt4780828","year":"2013","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9d23"},"title":"Sleepless University","poster":"N/A","imdb_id":"tt4917044","year":"2015–","type":"series"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9d24"},"title":"2013 National University Holiday Bowl","poster":"N/A","imdb_id":"tt4941200","year":"2013","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9d25"},"title":"University of Antelope Valley: Our Time","poster":"N/A","imdb_id":"tt4992100","year":"2012","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9d26"},"title":"Bethlehem Divinity University","poster":"N/A","imdb_id":"tt5146956","year":"2011","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9d27"},"title":"Model UN: University of Montreal","poster":"https://m.media-amazon.com/images/M/MV5BNDQ5NTkwMDY4N15BMl5BanBnXkFtZTgwMzUzNjIzNzE@._V1_SX300.jpg","imdb_id":"tt5174930","year":"2012","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9d28"},"title":"Killer University","poster":"N/A","imdb_id":"tt5202682","year":"2016","type":"series"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9d29"},"title":"Holmes University 2: The Longest Winter","poster":"N/A","imdb_id":"tt5205228","year":"2014","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9d2a"},"title":"Holmes University 3: Crusade of Darkness","poster":"N/A","imdb_id":"tt5208134","year":"2015","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9d2b"},"title":"Oklahoma State University Football Virtual Reality Experience","poster":"N/A","imdb_id":"tt5346810","year":"2016","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9d2c"},"title":"K.N.O.C.K. K.N.O.C.K. University","poster":"https://m.media-amazon.com/images/M/MV5BNGViNzE5ZjQtNjkwNi00MWIyLTk2ZDMtMDRlNmQ4ZmUwMGEwXkEyXkFqcGdeQXVyMzc2NTU5NjA@._V1_SX300.jpg","imdb_id":"tt5354292","year":"2015–","type":"series"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9d2d"},"title":"From the Ashes: The University of Evansville Purple Aces","poster":"https://m.media-amazon.com/images/M/MV5BMTU5MTQ4MDU5OF5BMl5BanBnXkFtZTgwOTgzOTU5NzE@._V1_SX300.jpg","imdb_id":"tt5427414","year":"2016","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9d2e"},"title":"British Industries: The Oxford University Press","poster":"N/A","imdb_id":"tt5442790","year":"1925","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9d2f"},"title":"Attempts on Her Life: Live at the University of Regina","poster":"N/A","imdb_id":"tt5492176","year":"2016","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9d30"},"title":"Howard University Bicycling Society: The Launch","poster":"N/A","imdb_id":"tt5527252","year":"2012","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9d31"},"title":"Online University","poster":"N/A","imdb_id":"tt5539258","year":"2016","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9d32"},"title":"Beer Grylls University Survivor","poster":"N/A","imdb_id":"tt5556902","year":"2015","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9d33"},"title":"Bloodsucker University","poster":"N/A","imdb_id":"tt5565928","year":"2017","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9d34"},"title":"Transforming Teaching Design Convening at Harvard University","poster":"https://m.media-amazon.com/images/M/MV5BMDc3Y2QzNTAtNGY1NS00ZTFjLWIzNzctOWE5NGIyNzNlMzU1XkEyXkFqcGdeQXVyNjI1MzY2Mzk@._V1_SX300.jpg","imdb_id":"tt5596032","year":"2015","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9d35"},"title":"Pantheon University","poster":"N/A","imdb_id":"tt5658044","year":"2016–","type":"series"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9d36"},"title":"God University","poster":"N/A","imdb_id":"tt5728586","year":"2013","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9d37"},"title":"A Bucknell University Candlelight Christmas","poster":"N/A","imdb_id":"tt5827794","year":"2011","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9d38"},"title":"The University","poster":"https://m.media-amazon.com/images/M/MV5BNDczZTIxZGMtZWRjYS00MWQwLWI0ZDctOTJiNmRmNGI5Y2MzXkEyXkFqcGdeQXVyNjgzNzQ3NjM@._V1_SX300.jpg","imdb_id":"tt5973024","year":"2016","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9d39"},"title":"Hoosier Rising: The Past and Present of Indiana University Basketball","poster":"N/A","imdb_id":"tt6065492","year":"2013","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9d3a"},"title":"Holmes University 4: Origins of the Fall","poster":"https://m.media-amazon.com/images/M/MV5BODFjMmUxMzMtYmI1Ni00MDY0LTlmMGMtZTEzMzI5NjA5Zjc0XkEyXkFqcGdeQXVyMjI5NjY4MDI@._V1_SX300.jpg","imdb_id":"tt6083872","year":"2016","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9d3b"},"title":"MTA University","poster":"N/A","imdb_id":"tt6083986","year":"2014","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9d3c"},"title":"College Hill: Langston University","poster":"N/A","imdb_id":"tt6111414","year":"2005–","type":"series"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9d3d"},"title":"Student Day and University of Tehran","poster":"N/A","imdb_id":"tt6133480","year":"2014","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9d3e"},"title":"Banned University of Lincoln Advert","poster":"N/A","imdb_id":"tt6198704","year":"2011","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9d3f"},"title":"Banned University of Lincoln Advert 2","poster":"N/A","imdb_id":"tt6198712","year":"2011","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9d40"},"title":"Banned University of Lincoln Advert 3","poster":"N/A","imdb_id":"tt6198732","year":"2011","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9d41"},"title":"Brigham Young University-Idaho Devotional","poster":"https://m.media-amazon.com/images/M/MV5BMjgxZmY4MTItMjM4ZC00NjYxLWE1YTgtMjA0OGRkY2NlYTc3XkEyXkFqcGdeQXVyNjk0ODQwNDI@._V1_SX300.jpg","imdb_id":"tt6202884","year":"2008–","type":"series"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9d42"},"title":"Spring's Awakening (Live at the University of Regina)","poster":"https://m.media-amazon.com/images/M/MV5BNzkwOWFiMjktNTBkOS00Y2Q0LWFjMjAtNzFiMDdkMDhiOWMzL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTY0NDUzNTQ@._V1_SX300.jpg","imdb_id":"tt6218016","year":"2016","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9d43"},"title":"Dow South Player University","poster":"https://m.media-amazon.com/images/M/MV5BMjQzZjJhNDgtYWU4Mi00YmE0LThjZWMtOWI1MGVlZmQzMWI2L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNDI5Njc2Nzg@._V1_SX300.jpg","imdb_id":"tt6366888","year":"2016","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9d44"},"title":"Hypertext: An Educational Experiment in English and Computer Science at Brown University","poster":"N/A","imdb_id":"tt6475064","year":"1976","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9d45"},"title":"Zombie University","poster":"N/A","imdb_id":"tt6573086","year":"2014","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9d46"},"title":"Cat Intubation Laboratory at Washington University in St. Louis: a Peta Whistleblower Case","poster":"N/A","imdb_id":"tt6717110","year":"2013","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9d47"},"title":"Columbia University Primate Experiments 2003","poster":"https://m.media-amazon.com/images/M/MV5BYjNjMDhjMTItZjVjYS00NGYzLTkxNzYtODM5MTJmOTJkYWQyXkEyXkFqcGdeQXVyMTc0NDM1MDQ@._V1_SX300.jpg","imdb_id":"tt6721088","year":"2003","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9d48"},"title":"University of Colorado and Health Sciences Center Cat Vivisection","poster":"N/A","imdb_id":"tt6854922","year":"2008","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9d49"},"title":"Auburn University: A PETA Undercover Investigation","poster":"N/A","imdb_id":"tt6855148","year":"2011","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9d4a"},"title":"Plymouth University Summer Ball","poster":"https://m.media-amazon.com/images/M/MV5BZGI5NjE2NzEtMmViZC00ZGJhLTgzYjYtNTRkMzY5ODI1NmIyXkEyXkFqcGdeQXVyODExMTIzNTg@._V1_SX300.jpg","imdb_id":"tt7541292","year":"2015","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9d4b"},"title":"WOMEN: 50 Years at Princeton University","poster":"https://m.media-amazon.com/images/M/MV5BNDhhNjMwM2ItZDUwYy00ZjcwLTk4MzItMzlmNmQ4ZjAwZDExXkEyXkFqcGdeQXVyNjk0MzI5Njg@._V1_SX300.jpg","imdb_id":"tt7716636","year":"2011","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9d4c"},"title":"Ball State University: Centennial Documentary","poster":"N/A","imdb_id":"tt8020036","year":"2018","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9d4d"},"title":"Austin Peay State University Holiday '18","poster":"N/A","imdb_id":"tt9290706","year":"2018","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9d4e"},"title":"Inquire Interview: University of Kent","poster":"https://m.media-amazon.com/images/M/MV5BOGI1Nzk1N2EtODcwZi00ZjY4LTgwMzItMmFlOWMyZTU2YjVlXkEyXkFqcGdeQXVyMDY3OTcyOQ@@._V1_SX300.jpg","imdb_id":"tt9324300","year":"2018","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9d4f"},"title":"The University Days of a Dog","poster":"https://m.media-amazon.com/images/M/MV5BYjQ1ZTE0ZWItNDA4NC00NDllLWExZTItOGIyZjUwM2ZhZDZlXkEyXkFqcGdeQXVyNTk5Nzg0MDE@._V1_SX300.jpg","imdb_id":"tt10912908","year":"2010","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9d50"},"title":"Hundred Year Journey: The Lee University Story","poster":"https://m.media-amazon.com/images/M/MV5BNDE1OTU4N2YtMGFhYi00MjlkLTkwYjktM2E3ZTg5MzNhYjQxXkEyXkFqcGdeQXVyODk3NjM1NTU@._V1_SX300.jpg","imdb_id":"tt11083316","year":"2018","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9d51"},"title":"Riba Stirling Prize 2015: University of Greenwich, Stockwell Street Building","poster":"N/A","imdb_id":"tt11621602","year":"2015","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9d52"},"title":"A History of Surgery at the University of Kansas Medical Center","poster":"N/A","imdb_id":"tt1996160","year":"2011","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9d53"},"title":"Together We Stand: A Story About the 1958 University of Buffalo Football Team","poster":"N/A","imdb_id":"tt2057491","year":"2011","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9d54"},"title":"Boston University Student Film (PROJECT INACTIVE)","poster":"N/A","imdb_id":"tt2066839","year":"2005","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9d55"},"title":"University of Penn Relay Carnival","poster":"N/A","imdb_id":"tt2083389","year":"2011","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9d56"},"title":"University PD","poster":"N/A","imdb_id":"tt2096671","year":"2011","type":"series"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9d57"},"title":"Marshall University: Ashes to Glory","poster":"https://m.media-amazon.com/images/M/MV5BMjA5Nzk3OTkzMF5BMl5BanBnXkFtZTgwOTgzNjA2MDE@._V1_SX300.jpg","imdb_id":"tt2117918","year":"2000","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9d58"},"title":"The 2 Coolest Ninjas to Ever Kick-it at Lincoln University","poster":"N/A","imdb_id":"tt2151831","year":"2011","type":"movie"}
+{"_id":{"$oid":"5e7e718e52f3fac0d75b9d59"},"title":"A Haunting at Giger State University","poster":"N/A","imdb_id":"tt2156635","year":"2011","type":"movie"}
+{"_id":{"$oid":"5e7e718f52f3fac0d75b9d5a"},"title":"The Annual American Friends Hebrew University Scopus Awards Honoring Ted Turner","poster":"N/A","imdb_id":"tt2166986","year":"1995","type":"movie"}
+{"_id":{"$oid":"5e7e718f52f3fac0d75b9d5b"},"title":"University People","poster":"N/A","imdb_id":"tt2224551","year":"2007","type":"movie"}
+{"_id":{"$oid":"5e7e718f52f3fac0d75b9d5c"},"title":"University Glimpse: The Musical Movie","poster":"N/A","imdb_id":"tt3153744","year":"2013","type":"movie"}
+{"_id":{"$oid":"5e7e718f52f3fac0d75b9d5d"},"title":"Kanagawa University of Fine Arts, Office of Film Research","poster":"N/A","imdb_id":"tt3166658","year":"2013","type":"movie"}
+{"_id":{"$oid":"5e7e718f52f3fac0d75b9d5e"},"title":"Welcome to Open Source University","poster":"N/A","imdb_id":"tt3177234","year":"2013","type":"movie"}
+{"_id":{"$oid":"5e7e718f52f3fac0d75b9d5f"},"title":"Baseball Player University","poster":"N/A","imdb_id":"tt3208060","year":"2006–","type":"series"}
+{"_id":{"$oid":"5e7e718f52f3fac0d75b9d60"},"title":"The University Boat Race","poster":"N/A","imdb_id":"tt3286562","year":"1905","type":"movie"}
+{"_id":{"$oid":"5e7e718f52f3fac0d75b9d61"},"title":"Reflex University","poster":"N/A","imdb_id":"tt3310480","year":"2013","type":"game"}
+{"_id":{"$oid":"5e7e718f52f3fac0d75b9d62"},"title":"Fool Sale University","poster":"N/A","imdb_id":"tt3353748","year":"2009","type":"movie"}
+{"_id":{"$oid":"5e7e718f52f3fac0d75b9d63"},"title":"Florida Polytechnic University: Be the Next","poster":"N/A","imdb_id":"tt3381470","year":"2013","type":"movie"}
+{"_id":{"$oid":"5e7e718f52f3fac0d75b9d64"},"title":"Return from Addiction: Collegiate Recovery at the University of North Texas","poster":"N/A","imdb_id":"tt3387716","year":"2013","type":"movie"}
+{"_id":{"$oid":"5e7e718f52f3fac0d75b9d65"},"title":"The University Boat Race","poster":"N/A","imdb_id":"tt3389708","year":"1905","type":"movie"}
+{"_id":{"$oid":"5e7e718f52f3fac0d75b9d66"},"title":"Oxford and Cambridge University Boat Race","poster":"N/A","imdb_id":"tt2320508","year":"1899","type":"movie"}
+{"_id":{"$oid":"5e7e718f52f3fac0d75b9d67"},"title":"125 Years of Sam Houston State University","poster":"N/A","imdb_id":"tt2354990","year":"2005","type":"movie"}
+{"_id":{"$oid":"5e7e718f52f3fac0d75b9d68"},"title":"University Sunshine","poster":"N/A","imdb_id":"tt2369928","year":"2009","type":"movie"}
+{"_id":{"$oid":"5e7e718f52f3fac0d75b9d69"},"title":"The University Boat Race 1900","poster":"N/A","imdb_id":"tt2390116","year":"1900","type":"movie"}
+{"_id":{"$oid":"5e7e718f52f3fac0d75b9d6a"},"title":"The 1993 Annual American Friends Hebrew University Scopus Awards Honors: A Salute to Aaron Spelling","poster":"N/A","imdb_id":"tt2395425","year":"1993","type":"movie"}
+{"_id":{"$oid":"5e7e718f52f3fac0d75b9d6b"},"title":"Cambridge University v. London Cricket Club","poster":"N/A","imdb_id":"tt2456936","year":"1901","type":"movie"}
+{"_id":{"$oid":"5e7e718f52f3fac0d75b9d6c"},"title":"University Estate","poster":"https://m.media-amazon.com/images/M/MV5BMjM1MDI1ODM4NV5BMl5BanBnXkFtZTgwOTczMDUwMTE@._V1_SX300.jpg","imdb_id":"tt2616728","year":"2013","type":"movie"}
+{"_id":{"$oid":"5e7e718f52f3fac0d75b9d6d"},"title":"University Star League","poster":"N/A","imdb_id":"tt2705672","year":"2013","type":"movie"}
+{"_id":{"$oid":"5e7e718f52f3fac0d75b9d6e"},"title":"Glass: Villanova University","poster":"N/A","imdb_id":"tt2788414","year":"2010","type":"movie"}
+{"_id":{"$oid":"5e7e718f52f3fac0d75b9d6f"},"title":"Panama: Villanova University","poster":"N/A","imdb_id":"tt2798496","year":"2011","type":"movie"}
+{"_id":{"$oid":"5e7e718f52f3fac0d75b9d70"},"title":"Vatican: Villanova University","poster":"N/A","imdb_id":"tt2798894","year":"2011","type":"movie"}
+{"_id":{"$oid":"5e7e718f52f3fac0d75b9d71"},"title":"Peru: Villanova University","poster":"N/A","imdb_id":"tt2798938","year":"2011","type":"movie"}
+{"_id":{"$oid":"5e7e718f52f3fac0d75b9d72"},"title":"University of Pennsylvania Football Team","poster":"N/A","imdb_id":"tt3054722","year":"1904","type":"movie"}
+{"_id":{"$oid":"5e7e718f52f3fac0d75b9d73"},"title":"Living Waters University","poster":"N/A","imdb_id":"tt3075154","year":"2009–","type":"series"}
+{"_id":{"$oid":"5e7e718f52f3fac0d75b9d74"},"title":"Oxford University Press","poster":"N/A","imdb_id":"tt3129296","year":"2014","type":"movie"}
+{"_id":{"$oid":"5e7e718f52f3fac0d75b9d75"},"title":"University Boat Race","poster":"N/A","imdb_id":"tt3426984","year":"1906","type":"movie"}
+{"_id":{"$oid":"5e7e718f52f3fac0d75b9d76"},"title":"My University Life","poster":"N/A","imdb_id":"tt3433794","year":"2011","type":"movie"}
+{"_id":{"$oid":"5e7e718f52f3fac0d75b9d77"},"title":"Christmas University Challenge","poster":"N/A","imdb_id":"tt3458830","year":"2013–","type":"series"}
+{"_id":{"$oid":"5e7e718f52f3fac0d75b9d78"},"title":"The Spirit of '69: The Legacy of Alpha Phi Alpha at the University of Georgia","poster":"N/A","imdb_id":"tt3503038","year":"2014","type":"movie"}
+{"_id":{"$oid":"5e7e718f52f3fac0d75b9d79"},"title":"The University Boat Race","poster":"N/A","imdb_id":"tt3553694","year":"1906","type":"movie"}
+{"_id":{"$oid":"5e7e718f52f3fac0d75b9d7a"},"title":"University Boat Race","poster":"N/A","imdb_id":"tt3616272","year":"1907","type":"movie"}
+{"_id":{"$oid":"5e7e718f52f3fac0d75b9d7b"},"title":"Paradise University","poster":"N/A","imdb_id":"tt3647132","year":"2014–","type":"series"}
+{"_id":{"$oid":"5e7e718f52f3fac0d75b9d7c"},"title":"The Story of the Open University","poster":"N/A","imdb_id":"tt3685708","year":"2009","type":"movie"}
+{"_id":{"$oid":"5e7e718f52f3fac0d75b9d7d"},"title":"University: Semester 2","poster":"https://m.media-amazon.com/images/M/MV5BMTUxOTA0MTgxNl5BMl5BanBnXkFtZTgwMjQ2MDE4NjE@._V1_SX300.jpg","imdb_id":"tt3745788","year":"2015","type":"movie"}
+{"_id":{"$oid":"5e7e718f52f3fac0d75b9d7e"},"title":"Martyn Stubbs Live at Leeds University","poster":"N/A","imdb_id":"tt3752960","year":"2003","type":"movie"}
+{"_id":{"$oid":"5e7e718f52f3fac0d75b9d7f"},"title":"University: The Third","poster":"N/A","imdb_id":"tt3811298","year":"2016","type":"movie"}
+{"_id":{"$oid":"5e7e718f52f3fac0d75b9d80"},"title":"Contigo University","poster":"N/A","imdb_id":"tt3838902","year":"2014","type":"movie"}
+{"_id":{"$oid":"5e7e718f52f3fac0d75b9d81"},"title":"University Ever After","poster":"N/A","imdb_id":"tt3845006","year":"2013–2014","type":"series"}
+{"_id":{"$oid":"5e7e718f52f3fac0d75b9d82"},"title":"Marc Broussard Live at Full Sail University","poster":"N/A","imdb_id":"tt3853816","year":"2013","type":"movie"}
+{"_id":{"$oid":"5e7e718f52f3fac0d75b9d83"},"title":"The University of Phoenix Online","poster":"N/A","imdb_id":"tt2263060","year":"2012","type":"movie"}
+{"_id":{"$oid":"5e7e718f52f3fac0d75b9d84"},"title":"The Gentlemen's Guild Presents: Carnal Encounters at University","poster":"N/A","imdb_id":"tt1458640","year":"2009","type":"movie"}
+{"_id":{"$oid":"5e7e719352f3fac0d75b9d85"},"title":"CBC News: Moncton Shooting","poster":"N/A","imdb_id":"tt4362372","year":"2014–","type":"series"}
+{"_id":{"$oid":"5e7e719752f3fac0d75b9d86"},"title":"Last Tango in Halifax","poster":"https://m.media-amazon.com/images/M/MV5BNjUxNmQ1MmMtZGFjNS00YzFlLWFkNDAtZWFlYmFhNWY1MGY5XkEyXkFqcGdeQXVyMjExMjk0ODk@._V1_SX300.jpg","imdb_id":"tt2216156","year":"2012–2020","type":"series"}
+{"_id":{"$oid":"5e7e719752f3fac0d75b9d87"},"title":"Shattered City: The Halifax Explosion","poster":"https://m.media-amazon.com/images/M/MV5BMTI4NDgzNzA2M15BMl5BanBnXkFtZTcwOTExMDEzMQ@@._V1_SX300.jpg","imdb_id":"tt0368542","year":"2003–","type":"series"}
+{"_id":{"$oid":"5e7e719752f3fac0d75b9d88"},"title":"Tram Ride Into Halifax","poster":"N/A","imdb_id":"tt0471407","year":"1902","type":"movie"}
+{"_id":{"$oid":"5e7e719752f3fac0d75b9d89"},"title":"Halifax f.p.","poster":"https://m.media-amazon.com/images/M/MV5BMjMwODM3OTMxNF5BMl5BanBnXkFtZTgwMDMyMDE2MDE@._V1_SX300.jpg","imdb_id":"tt2329424","year":"1994–2001","type":"series"}
+{"_id":{"$oid":"5e7e719752f3fac0d75b9d8a"},"title":"Halifax Catholic Procession","poster":"N/A","imdb_id":"tt0471190","year":"1905","type":"movie"}
+{"_id":{"$oid":"5e7e719752f3fac0d75b9d8b"},"title":"Bradford Halifax London","poster":"https://m.media-amazon.com/images/M/MV5BNTM1MjExMDA0Nl5BMl5BanBnXkFtZTgwNTAwOTEwMDE@._V1_SX300.jpg","imdb_id":"tt3091196","year":"2013","type":"movie"}
+{"_id":{"$oid":"5e7e719752f3fac0d75b9d8c"},"title":"John Halifax","poster":"N/A","imdb_id":"tt0030176","year":"1938","type":"movie"}
+{"_id":{"$oid":"5e7e719752f3fac0d75b9d8d"},"title":"City of Ruins: The Halifax Explosion","poster":"N/A","imdb_id":"tt0387938","year":"2003","type":"movie"}
+{"_id":{"$oid":"5e7e719752f3fac0d75b9d8e"},"title":"John Halifax, Gentleman","poster":"N/A","imdb_id":"tt0426727","year":"1974","type":"movie"}
+{"_id":{"$oid":"5e7e719752f3fac0d75b9d8f"},"title":"Just One Big Mess: The Halifax Explosion, 1917","poster":"N/A","imdb_id":"tt0223590","year":"1991","type":"movie"}
+{"_id":{"$oid":"5e7e719852f3fac0d75b9d90"},"title":"Redevelopment in Halifax, Nova Scotia: Mulgrave Park","poster":"N/A","imdb_id":"tt0227354","year":"1964","type":"movie"}
+{"_id":{"$oid":"5e7e719852f3fac0d75b9d91"},"title":"A Report on Redevelopment: New Course for Halifax","poster":"N/A","imdb_id":"tt0227372","year":"1961","type":"movie"}
+{"_id":{"$oid":"5e7e719852f3fac0d75b9d92"},"title":"John Halifax, Gentleman","poster":"N/A","imdb_id":"tt0326993","year":"1915","type":"movie"}
+{"_id":{"$oid":"5e7e719852f3fac0d75b9d93"},"title":"John Halifax, Gentleman","poster":"N/A","imdb_id":"tt0339224","year":"1910","type":"movie"}
+{"_id":{"$oid":"5e7e719852f3fac0d75b9d94"},"title":"Snowballing Scene in Halifax","poster":"N/A","imdb_id":"tt0359995","year":"1901","type":"movie"}
+{"_id":{"$oid":"5e7e719852f3fac0d75b9d95"},"title":"Encounter at Kwacha House - Halifax","poster":"N/A","imdb_id":"tt0223214","year":"1967","type":"movie"}
+{"_id":{"$oid":"5e7e719852f3fac0d75b9d96"},"title":"The Halifax Neighbourhood Center Project","poster":"N/A","imdb_id":"tt0223420","year":"1967","type":"movie"}
+{"_id":{"$oid":"5e7e719852f3fac0d75b9d97"},"title":"Second Canadian Contingent Leaving Halifax","poster":"N/A","imdb_id":"tt2420986","year":"1900","type":"movie"}
+{"_id":{"$oid":"5e7e719852f3fac0d75b9d98"},"title":"Zombie Cam: Halifax Zombie Walk","poster":"N/A","imdb_id":"tt2431536","year":"2012","type":"movie"}
+{"_id":{"$oid":"5e7e719852f3fac0d75b9d99"},"title":"Harlem Shake Halifax","poster":"N/A","imdb_id":"tt2729282","year":"2013","type":"movie"}
+{"_id":{"$oid":"5e7e719852f3fac0d75b9d9a"},"title":"The Franciscans of Halifax","poster":"N/A","imdb_id":"tt2983488","year":"2014","type":"movie"}
+{"_id":{"$oid":"5e7e719852f3fac0d75b9d9b"},"title":"Going to Halifax","poster":"N/A","imdb_id":"tt0943281","year":"1916","type":"movie"}
+{"_id":{"$oid":"5e7e719852f3fac0d75b9d9c"},"title":"Montreal, Quebec and Halifax","poster":"N/A","imdb_id":"tt1159671","year":"1913","type":"movie"}
+{"_id":{"$oid":"5e7e719852f3fac0d75b9d9d"},"title":"Crazy Dave and the Beast of Halifax Moor","poster":"N/A","imdb_id":"tt1316410","year":"2008","type":"movie"}
+{"_id":{"$oid":"5e7e719852f3fac0d75b9d9e"},"title":"Halifax v. Salford","poster":"https://m.media-amazon.com/images/M/MV5BMTMwNjcwMjQ2Ml5BMl5BanBnXkFtZTcwMjc2OTY1Mw@@._V1_SX300.jpg","imdb_id":"tt1669118","year":"1901","type":"movie"}
+{"_id":{"$oid":"5e7e719852f3fac0d75b9d9f"},"title":"Northern Union Challenge Cup Final: Halifax v. Salford","poster":"N/A","imdb_id":"tt1669196","year":"1903","type":"movie"}
+{"_id":{"$oid":"5e7e719852f3fac0d75b9da0"},"title":"Interviewed by a Zombie: Halifax Zombie Walk","poster":"N/A","imdb_id":"tt3225904","year":"2013","type":"movie"}
+{"_id":{"$oid":"5e7e719852f3fac0d75b9da1"},"title":"Holiday in Halifax","poster":"N/A","imdb_id":"tt4073118","year":"2014","type":"movie"}
+{"_id":{"$oid":"5e7e719852f3fac0d75b9da2"},"title":"Halifax at War: The Story of a Bomber","poster":"https://m.media-amazon.com/images/M/MV5BYzc5MzNjOGYtZDQ1Ny00YmM5LTkyNzQtZGRhZmY4OTZkYmFkXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_SX300.jpg","imdb_id":"tt4264708","year":"2009","type":"movie"}
+{"_id":{"$oid":"5e7e719852f3fac0d75b9da3"},"title":"Halifax Sidewalk Protest","poster":"N/A","imdb_id":"tt4507878","year":"2015","type":"movie"}
+{"_id":{"$oid":"5e7e719852f3fac0d75b9da4"},"title":"Relay for Life Halifax","poster":"N/A","imdb_id":"tt4507894","year":"2014","type":"movie"}
+{"_id":{"$oid":"5e7e719852f3fac0d75b9da5"},"title":"City of the Dead: Halifax and the Titanic Disaster","poster":"https://m.media-amazon.com/images/M/MV5BMTFjZTNkYTUtODg0My00MzI4LTg5NTEtYTY3ZjI4OTg4MGU5XkEyXkFqcGdeQXVyNDMzMTA4OTM@._V1_SX300.jpg","imdb_id":"tt4517500","year":"2013","type":"movie"}
+{"_id":{"$oid":"5e7e719852f3fac0d75b9da6"},"title":"Halifax at Night","poster":"N/A","imdb_id":"tt4772552","year":"2015","type":"movie"}
+{"_id":{"$oid":"5e7e719852f3fac0d75b9da7"},"title":"Halifax Ribfest","poster":"N/A","imdb_id":"tt4844376","year":"2015","type":"movie"}
+{"_id":{"$oid":"5e7e719852f3fac0d75b9da8"},"title":"Halifax Donair Crawl","poster":"N/A","imdb_id":"tt4950072","year":"2015","type":"movie"}
+{"_id":{"$oid":"5e7e719852f3fac0d75b9da9"},"title":"Halifax","poster":"https://m.media-amazon.com/images/M/MV5BNTlmNTg3MmQtN2I3Ni00YjVmLTgzM2YtNGFkNGEyNmU4NGZkXkEyXkFqcGdeQXVyNjUyNDE4NzU@._V1_SX300.jpg","imdb_id":"tt5147198","year":"2015","type":"movie"}
+{"_id":{"$oid":"5e7e719852f3fac0d75b9daa"},"title":"Halifax Tea Festival","poster":"N/A","imdb_id":"tt5710948","year":"2016","type":"movie"}
+{"_id":{"$oid":"5e7e719852f3fac0d75b9dab"},"title":"Halifax Explosion: The Deaf Experience","poster":"https://m.media-amazon.com/images/M/MV5BN2JkYWY3NmYtODNiOC00YzU5LTgzZDItNzY2NDQ1ZTk5YzA3XkEyXkFqcGdeQXVyNzc4MzkxNjk@._V1_SX300.jpg","imdb_id":"tt7082980","year":"2017","type":"movie"}
+{"_id":{"$oid":"5e7e719852f3fac0d75b9dac"},"title":"Curse of the Halifax Bridges","poster":"N/A","imdb_id":"tt2315108","year":"2012","type":"movie"}
+{"_id":{"$oid":"5e7e719c52f3fac0d75b9dad"},"title":"I Hate Toronto: A Love Story","poster":"https://m.media-amazon.com/images/M/MV5BMTcyMDAyOTgzNF5BMl5BanBnXkFtZTcwOTM2MzYyNw@@._V1_SX300.jpg","imdb_id":"tt1816549","year":"2012","type":"movie"}
+{"_id":{"$oid":"5e7e719c52f3fac0d75b9dae"},"title":"Toronto Stories","poster":"https://m.media-amazon.com/images/M/MV5BMTA0MTI1ODM2NDdeQTJeQWpwZ15BbWU3MDMyOTMwMjI@._V1_SX300.jpg","imdb_id":"tt1113827","year":"2008","type":"movie"}
+{"_id":{"$oid":"5e7e719c52f3fac0d75b9daf"},"title":"Avril Lavigne: The Best Damn Tour - Live in Toronto","poster":"https://m.media-amazon.com/images/M/MV5BMjIxNzg3OTg1OF5BMl5BanBnXkFtZTcwMDk4NzQ5MQ@@._V1_SX300.jpg","imdb_id":"tt1289777","year":"2008","type":"movie"}
+{"_id":{"$oid":"5e7e719c52f3fac0d75b9db0"},"title":"NXT TakeOver: Toronto","poster":"https://m.media-amazon.com/images/M/MV5BZjc0ZjQ2N2MtNjU3ZC00ZTA2LWEzZjUtNmI4NGM2YzExMDUwL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMzQwNDk2ODM@._V1_SX300.jpg","imdb_id":"tt6260358","year":"2016","type":"movie"}
+{"_id":{"$oid":"5e7e719c52f3fac0d75b9db1"},"title":"Plague City: SARS in Toronto","poster":"https://m.media-amazon.com/images/M/MV5BMTQ1NTE1OTMxNV5BMl5BanBnXkFtZTgwNzI0MDA2MDE@._V1_SX300.jpg","imdb_id":"tt0439763","year":"2005","type":"movie"}
+{"_id":{"$oid":"5e7e719c52f3fac0d75b9db2"},"title":"John Lennon and the Plastic Ono Band: Sweet Toronto","poster":"https://ia.media-imdb.com/images/M/MV5BNzNkMmViYzYtNjgxMC00MTViLTg2ZjctMTEwNmU2N2Y4ZWQwXkEyXkFqcGdeQXVyNTk1NTMyNzM@._V1_SX300.jpg","imdb_id":"tt0498719","year":"1971","type":"movie"}
+{"_id":{"$oid":"5e7e719c52f3fac0d75b9db3"},"title":"Let's All Hate Toronto","poster":"https://m.media-amazon.com/images/M/MV5BMjE1NzQyNjU1Ml5BMl5BanBnXkFtZTgwMzIyMjA2MDE@._V1_SX300.jpg","imdb_id":"tt1135977","year":"2007","type":"movie"}
+{"_id":{"$oid":"5e7e719c52f3fac0d75b9db4"},"title":"The Man from Toronto","poster":"https://m.media-amazon.com/images/M/MV5BNWU5NWQyODQtNzNmNi00ZWZmLTk2NGQtMTRjZmM3OWYyNGE1L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTE1NDUzNg@@._V1_SX300.jpg","imdb_id":"tt0024298","year":"1933","type":"movie"}
+{"_id":{"$oid":"5e7e719c52f3fac0d75b9db5"},"title":"The Toronto Show","poster":"N/A","imdb_id":"tt0393003","year":"2003–2004","type":"series"}
+{"_id":{"$oid":"5e7e719c52f3fac0d75b9db6"},"title":"Film-Fest DVD: Issue 3 - Toronto","poster":"N/A","imdb_id":"tt0500201","year":"2000","type":"movie"}
+{"_id":{"$oid":"5e7e719d52f3fac0d75b9db7"},"title":"Toronto Rocks","poster":"https://m.media-amazon.com/images/M/MV5BMjAxNzVmZTEtNDVlMS00NjU1LTg3NTgtZjFkNmI4OGJmYjQ3XkEyXkFqcGdeQXVyNjg0MTI2MzM@._V1_SX300.jpg","imdb_id":"tt0418247","year":"2003","type":"movie"}
+{"_id":{"$oid":"5e7e719d52f3fac0d75b9db8"},"title":"1992 World Series: Atlanta Braves vs Toronto Blue Jays","poster":"N/A","imdb_id":"tt0483466","year":"1992","type":"movie"}
+{"_id":{"$oid":"5e7e719d52f3fac0d75b9db9"},"title":"1993 World Series Video: Philadelphia vs Toronto Blue Jays","poster":"N/A","imdb_id":"tt0479626","year":"1993","type":"movie"}
+{"_id":{"$oid":"5e7e719d52f3fac0d75b9dba"},"title":"The Passion Returns: The 1992-93 Toronto Maple Leafs","poster":"N/A","imdb_id":"tt0287627","year":"1993","type":"movie"}
+{"_id":{"$oid":"5e7e719d52f3fac0d75b9dbb"},"title":"The Real Housewives of Toronto","poster":"https://m.media-amazon.com/images/M/MV5BOTAxODY0ODY0NV5BMl5BanBnXkFtZTgwNzY0MjUzMjI@._V1_SX300.jpg","imdb_id":"tt6645412","year":"2017–","type":"series"}
+{"_id":{"$oid":"5e7e719d52f3fac0d75b9dbc"},"title":"UCF: Toronto Cybercide","poster":"https://m.media-amazon.com/images/M/MV5BMTY1ODg5NzY2NV5BMl5BanBnXkFtZTgwNDY1MTA2MDE@._V1_SX300.jpg","imdb_id":"tt0906093","year":"2006","type":"movie"}
+{"_id":{"$oid":"5e7e719d52f3fac0d75b9dbd"},"title":"The Scene: An Exploration of Music in Toronto","poster":"https://m.media-amazon.com/images/M/MV5BMTQxMDg1MDE5NV5BMl5BanBnXkFtZTcwOTQ3ODk4OA@@._V1_SX300.jpg","imdb_id":"tt2586210","year":"2013","type":"movie"}
+{"_id":{"$oid":"5e7e719d52f3fac0d75b9dbe"},"title":"IMDb at Toronto International Film Festival","poster":"https://m.media-amazon.com/images/M/MV5BMjUwNDA4MDI1MV5BMl5BanBnXkFtZTgwMDMzNzExNjM@._V1_SX300.jpg","imdb_id":"tt8783910","year":"2017–","type":"series"}
+{"_id":{"$oid":"5e7e719d52f3fac0d75b9dbf"},"title":"Canada Vignettes: Toronto","poster":"N/A","imdb_id":"tt0225297","year":"1978","type":"movie"}
+{"_id":{"$oid":"5e7e719d52f3fac0d75b9dc0"},"title":"See You in Toronto","poster":"N/A","imdb_id":"tt0261977","year":"2000","type":"movie"}
+{"_id":{"$oid":"5e7e719d52f3fac0d75b9dc1"},"title":"NXT TakeOver: Toronto","poster":"https://m.media-amazon.com/images/M/MV5BZjkzNmNkZmEtMDM3Mi00MzU2LWE3MzEtNTlhN2JjMGY4ODExXkEyXkFqcGdeQXVyNTQ0MTU2MDI@._V1_SX300.jpg","imdb_id":"tt10726448","year":"2019","type":"movie"}
+{"_id":{"$oid":"5e7e719d52f3fac0d75b9dc2"},"title":"That Night in Toronto","poster":"N/A","imdb_id":"tt1479385","year":"2005","type":"movie"}
+{"_id":{"$oid":"5e7e719d52f3fac0d75b9dc3"},"title":"The Great Toronto Fire, Toronto, Canada, April 19, 1904","poster":"N/A","imdb_id":"tt0809335","year":"1904","type":"movie"}
+{"_id":{"$oid":"5e7e719d52f3fac0d75b9dc4"},"title":"Meowingtons Hax 2K11: Toronto","poster":"N/A","imdb_id":"tt2705570","year":"2012","type":"movie"}
+{"_id":{"$oid":"5e7e719d52f3fac0d75b9dc5"},"title":"The Second City Toronto 15th Anniversary","poster":"N/A","imdb_id":"tt0448734","year":"1988","type":"movie"}
+{"_id":{"$oid":"5e7e719d52f3fac0d75b9dc6"},"title":"AMC News Special: Toronto Film Festival 2010","poster":"N/A","imdb_id":"tt1737793","year":"2010","type":"movie"}
+{"_id":{"$oid":"5e7e719d52f3fac0d75b9dc7"},"title":"Redevelopment in Toronto, Ontario: Regent Park South","poster":"N/A","imdb_id":"tt0227355","year":"1964","type":"movie"}
+{"_id":{"$oid":"5e7e719d52f3fac0d75b9dc8"},"title":"Back to Back: The Story of the 1993 Toronto Blue Jays","poster":"N/A","imdb_id":"tt2123149","year":"1993","type":"movie"}
+{"_id":{"$oid":"5e7e719d52f3fac0d75b9dc9"},"title":"CTV News at 11:30 Toronto","poster":"N/A","imdb_id":"tt4367274","year":"2016–","type":"series"}
+{"_id":{"$oid":"5e7e719d52f3fac0d75b9dca"},"title":"Tiny Toronto","poster":"N/A","imdb_id":"tt4419800","year":"2015–","type":"series"}
+{"_id":{"$oid":"5e7e719d52f3fac0d75b9dcb"},"title":"SR 170 Toronto","poster":"N/A","imdb_id":"tt4472018","year":"1978","type":"movie"}
+{"_id":{"$oid":"5e7e719d52f3fac0d75b9dcc"},"title":"Toronto Alice","poster":"https://m.media-amazon.com/images/M/MV5BMTYwMjcwNjIxNV5BMl5BanBnXkFtZTgwMjMyOTkzNjE@._V1_SX300.jpg","imdb_id":"tt4517240","year":"2015","type":"movie"}
+{"_id":{"$oid":"5e7e719d52f3fac0d75b9dcd"},"title":"Vintage World Series Films: Toronto Blue Jays 1992","poster":"N/A","imdb_id":"tt4522720","year":"2007","type":"movie"}
+{"_id":{"$oid":"5e7e719d52f3fac0d75b9dce"},"title":"Vintage World Series Films: Toronto Blue Jays 1993","poster":"N/A","imdb_id":"tt4554130","year":"2007","type":"movie"}
+{"_id":{"$oid":"5e7e719d52f3fac0d75b9dcf"},"title":"Mr London: Toronto 2014","poster":"N/A","imdb_id":"tt4892700","year":"2013","type":"movie"}
+{"_id":{"$oid":"5e7e719d52f3fac0d75b9dd0"},"title":"Blueman Group Toronto","poster":"N/A","imdb_id":"tt5147338","year":"2010","type":"movie"}
+{"_id":{"$oid":"5e7e719d52f3fac0d75b9dd1"},"title":"This is for Toronto","poster":"N/A","imdb_id":"tt5333136","year":"2016","type":"movie"}
+{"_id":{"$oid":"5e7e719d52f3fac0d75b9dd2"},"title":"September in Toronto","poster":"N/A","imdb_id":"tt5468730","year":"2016","type":"movie"}
+{"_id":{"$oid":"5e7e719d52f3fac0d75b9dd3"},"title":"Reading Woelfflin's Principles: Toronto Stories","poster":"N/A","imdb_id":"tt5792460","year":"2016","type":"movie"}
+{"_id":{"$oid":"5e7e719d52f3fac0d75b9dd4"},"title":"Toronto Legal","poster":"N/A","imdb_id":"tt5832208","year":"2016–","type":"series"}
+{"_id":{"$oid":"5e7e719d52f3fac0d75b9dd5"},"title":"Toronto Maple Leafs Forever: The Tradition of the Toronto Maple Leafs","poster":"N/A","imdb_id":"tt5870258","year":"2002","type":"movie"}
+{"_id":{"$oid":"5e7e719d52f3fac0d75b9dd6"},"title":"Toronto","poster":"https://m.media-amazon.com/images/M/MV5BNzc4YzYzOGMtYzI2MC00ZThhLWFjMTAtNDA5MThhMmUwNDA3L2ltYWdlXkEyXkFqcGdeQXVyMzk2NDk3MDc@._V1_SX300.jpg","imdb_id":"tt6217784","year":"2017","type":"movie"}
+{"_id":{"$oid":"5e7e719d52f3fac0d75b9dd7"},"title":"Toronto Bites","poster":"N/A","imdb_id":"tt2152078","year":"2004–","type":"series"}
+{"_id":{"$oid":"5e7e719d52f3fac0d75b9dd8"},"title":"Toronto: Second Society","poster":"N/A","imdb_id":"tt2175078","year":"1995","type":"movie"}
+{"_id":{"$oid":"5e7e719d52f3fac0d75b9dd9"},"title":"Toronto Film Race","poster":"N/A","imdb_id":"tt2313432","year":"2010–","type":"series"}
+{"_id":{"$oid":"5e7e719d52f3fac0d75b9dda"},"title":"Canadian National Exhibition at Toronto","poster":"N/A","imdb_id":"tt2360554","year":"1912","type":"movie"}
+{"_id":{"$oid":"5e7e719d52f3fac0d75b9ddb"},"title":"Motörhead: Live in Toronto","poster":"N/A","imdb_id":"tt2447602","year":"1982","type":"movie"}
+{"_id":{"$oid":"5e7e719d52f3fac0d75b9ddc"},"title":"Marinera - Madrid - Toronto","poster":"N/A","imdb_id":"tt2567174","year":"2012","type":"movie"}
+{"_id":{"$oid":"5e7e719d52f3fac0d75b9ddd"},"title":"December in Toronto","poster":"https://m.media-amazon.com/images/M/MV5BMjExMTAwMDA5Ml5BMl5BanBnXkFtZTcwMzc0Mjc1NA@@._V1_SX300.jpg","imdb_id":"tt1848851","year":"2011","type":"movie"}
+{"_id":{"$oid":"5e7e719d52f3fac0d75b9dde"},"title":"Once Upon a Time in Toronto","poster":"N/A","imdb_id":"tt1896312","year":"2009–2010","type":"series"}
+{"_id":{"$oid":"5e7e719d52f3fac0d75b9ddf"},"title":"Building Toronto","poster":"N/A","imdb_id":"tt1966376","year":"2010","type":"movie"}
+{"_id":{"$oid":"5e7e719d52f3fac0d75b9de0"},"title":"Yonge Street: Toronto Rock & Roll Stories","poster":"N/A","imdb_id":"tt2014152","year":"2011–","type":"series"}
+{"_id":{"$oid":"5e7e719d52f3fac0d75b9de1"},"title":"Daytime Toronto","poster":"N/A","imdb_id":"tt2740612","year":"2011–","type":"series"}
+{"_id":{"$oid":"5e7e719d52f3fac0d75b9de2"},"title":"Once Again Toronto","poster":"N/A","imdb_id":"tt2938882","year":"2013","type":"movie"}
+{"_id":{"$oid":"5e7e719d52f3fac0d75b9de3"},"title":"The Great Toronto Fire","poster":"N/A","imdb_id":"tt2950508","year":"1904","type":"movie"}
+{"_id":{"$oid":"5e7e719d52f3fac0d75b9de4"},"title":"Toronto Sounds","poster":"N/A","imdb_id":"tt2950972","year":"2013","type":"movie"}
+{"_id":{"$oid":"5e7e719d52f3fac0d75b9de5"},"title":"Honda Indy Toronto","poster":"N/A","imdb_id":"tt3171296","year":"2013","type":"movie"}
+{"_id":{"$oid":"5e7e719d52f3fac0d75b9de6"},"title":"Toronto Jay Variety Show","poster":"N/A","imdb_id":"tt3264338","year":"2010–","type":"series"}
+{"_id":{"$oid":"5e7e719d52f3fac0d75b9de7"},"title":"Honda Indy Toronto","poster":"N/A","imdb_id":"tt3303098","year":"2012","type":"movie"}
+{"_id":{"$oid":"5e7e719d52f3fac0d75b9de8"},"title":"Tradition of Success: The Story of the 1990 Toronto Blue Jays","poster":"N/A","imdb_id":"tt3325336","year":"1990","type":"movie"}
+{"_id":{"$oid":"5e7e719d52f3fac0d75b9de9"},"title":"Four Million Memories: The 1991 Toronto Blue Jays Highlight Video","poster":"N/A","imdb_id":"tt3326048","year":"1991","type":"game"}
+{"_id":{"$oid":"5e7e719d52f3fac0d75b9dea"},"title":"Toronto","poster":"N/A","imdb_id":"tt3439228","year":"2013","type":"movie"}
+{"_id":{"$oid":"5e7e719d52f3fac0d75b9deb"},"title":"Honda Indy Toronto","poster":"N/A","imdb_id":"tt3596866","year":"2014","type":"movie"}
+{"_id":{"$oid":"5e7e719d52f3fac0d75b9dec"},"title":"Four Toronto Films","poster":"N/A","imdb_id":"tt3620626","year":"2007","type":"movie"}
+{"_id":{"$oid":"5e7e719d52f3fac0d75b9ded"},"title":"The Greater Toronto Trip","poster":"N/A","imdb_id":"tt3639170","year":"2007","type":"movie"}
+{"_id":{"$oid":"5e7e719d52f3fac0d75b9dee"},"title":"Toronto Zoom","poster":"N/A","imdb_id":"tt3669456","year":"2014","type":"movie"}
+{"_id":{"$oid":"5e7e719d52f3fac0d75b9def"},"title":"Count Me in Toronto 2014","poster":"N/A","imdb_id":"tt3863594","year":"2014","type":"movie"}
+{"_id":{"$oid":"5e7e719d52f3fac0d75b9df0"},"title":"NHL: Toronto Maple Leafs - 10 Great Leafs and Their Most Memorable Games","poster":"N/A","imdb_id":"tt3962912","year":"2009","type":"movie"}
+{"_id":{"$oid":"5e7e719d52f3fac0d75b9df1"},"title":"Balade à Toronto","poster":"N/A","imdb_id":"tt3977860","year":"2014","type":"movie"}
+{"_id":{"$oid":"5e7e719d52f3fac0d75b9df2"},"title":"CBC News: Toronto","poster":"N/A","imdb_id":"tt4292678","year":"1952–","type":"series"}
+{"_id":{"$oid":"5e7e719d52f3fac0d75b9df3"},"title":"Serbian Toronto Television","poster":"N/A","imdb_id":"tt4308232","year":"2014–","type":"series"}
+{"_id":{"$oid":"5e7e719d52f3fac0d75b9df4"},"title":"Toronto Pan American Games Closing Ceremonies","poster":"N/A","imdb_id":"tt4346520","year":"2015","type":"movie"}
+{"_id":{"$oid":"5e7e719d52f3fac0d75b9df5"},"title":"Bonjour Toronto!","poster":"N/A","imdb_id":"tt0235242","year":"1965","type":"movie"}
+{"_id":{"$oid":"5e7e719d52f3fac0d75b9df6"},"title":"Toronto Mounted Rifles","poster":"N/A","imdb_id":"tt0274979","year":"1900","type":"movie"}
+{"_id":{"$oid":"5e7e719d52f3fac0d75b9df7"},"title":"Toronto","poster":"N/A","imdb_id":"tt0142923","year":"1982","type":"movie"}
+{"_id":{"$oid":"5e7e719d52f3fac0d75b9df8"},"title":"Jim and Muggins Tour Toronto","poster":"N/A","imdb_id":"tt0194059","year":"1979","type":"movie"}
+{"_id":{"$oid":"5e7e719d52f3fac0d75b9df9"},"title":"Encounter with Saul Alinsky - Part 1: CYC Toronto","poster":"N/A","imdb_id":"tt0223216","year":"1967","type":"movie"}
+{"_id":{"$oid":"5e7e719d52f3fac0d75b9dfa"},"title":"Toronto Jazz","poster":"N/A","imdb_id":"tt0224276","year":"1964","type":"movie"}
+{"_id":{"$oid":"5e7e719d52f3fac0d75b9dfb"},"title":"Steeple Chase, Toronto","poster":"N/A","imdb_id":"tt0296217","year":"1900","type":"movie"}
+{"_id":{"$oid":"5e7e719d52f3fac0d75b9dfc"},"title":"Toronto Sunday","poster":"N/A","imdb_id":"tt0902294","year":"2007","type":"movie"}
+{"_id":{"$oid":"5e7e719d52f3fac0d75b9dfd"},"title":"Toronto Connection","poster":"N/A","imdb_id":"tt1211958","year":"2007","type":"movie"}
+{"_id":{"$oid":"5e7e719d52f3fac0d75b9dfe"},"title":"Toronto Connection 2","poster":"N/A","imdb_id":"tt1211959","year":"2007","type":"movie"}
+{"_id":{"$oid":"5e7e719d52f3fac0d75b9dff"},"title":"The Adulterers' Guide to Toronto","poster":"https://m.media-amazon.com/images/M/MV5BMTQzOTExODU0MF5BMl5BanBnXkFtZTcwODM5NDc5Mg@@._V1_SX300.jpg","imdb_id":"tt1536450","year":"2003","type":"movie"}
+{"_id":{"$oid":"5e7e719d52f3fac0d75b9e00"},"title":"Seventeen People from Toronto","poster":"N/A","imdb_id":"tt1539023","year":"2005","type":"movie"}
+{"_id":{"$oid":"5e7e719d52f3fac0d75b9e01"},"title":"Toronto - New York","poster":"N/A","imdb_id":"tt1710620","year":"2009","type":"movie"}
+{"_id":{"$oid":"5e7e719d52f3fac0d75b9e02"},"title":"Ottawa and Toronto","poster":"N/A","imdb_id":"tt0944133","year":"1917","type":"movie"}
+{"_id":{"$oid":"5e7e719d52f3fac0d75b9e03"},"title":"Ellinismos tou Toronto","poster":"N/A","imdb_id":"tt1364406","year":"1986","type":"movie"}
+{"_id":{"$oid":"5e7e719d52f3fac0d75b9e04"},"title":"Committed: The Toronto International Film Festival","poster":"N/A","imdb_id":"tt1745674","year":"2010","type":"movie"}
+{"_id":{"$oid":"5e7e719d52f3fac0d75b9e05"},"title":"Bike Couriers in Toronto","poster":"https://m.media-amazon.com/images/M/MV5BMjMzNjYxNjAyMl5BMl5BanBnXkFtZTcwNjAwMzYwOQ@@._V1_SX300.jpg","imdb_id":"tt2655460","year":"1996","type":"movie"}
+{"_id":{"$oid":"5e7e719d52f3fac0d75b9e06"},"title":"ASAP Road to Toronto","poster":"N/A","imdb_id":"tt7214844","year":"2017","type":"movie"}
+{"_id":{"$oid":"5e7e719d52f3fac0d75b9e07"},"title":"Maple Leaf 'Poultry' Chicken Slaughterhouse, Toronto, 2011","poster":"N/A","imdb_id":"tt7601726","year":"2012","type":"movie"}
+{"_id":{"$oid":"5e7e719d52f3fac0d75b9e08"},"title":"Toronto Song Project","poster":"https://m.media-amazon.com/images/M/MV5BODUxMjkyMGEtYmQwOC00ZWFhLTllOGYtOTZlZDI5YTIxNjliXkEyXkFqcGdeQXVyMjI2ODI4MzA@._V1_SX300.jpg","imdb_id":"tt8026354","year":"2015","type":"series"}
+{"_id":{"$oid":"5e7e719d52f3fac0d75b9e09"},"title":"Airbourne: Live in Toronto","poster":"N/A","imdb_id":"tt11043920","year":"2010","type":"movie"}
+{"_id":{"$oid":"5e7e719d52f3fac0d75b9e0a"},"title":"The Man from Toronto","poster":"N/A","imdb_id":"tt11671006","year":"2020","type":"movie"}
+{"_id":{"$oid":"5e7e719d52f3fac0d75b9e0b"},"title":"Toronto Concert: FX the Band","poster":"https://m.media-amazon.com/images/M/MV5BZjg0ODZhZmQtNmJkYy00YWFiLTgxMTktMjYyYzI1OTkxOWNiXkEyXkFqcGdeQXVyNTUyMjY3MTI@._V1_SX300.jpg","imdb_id":"tt8869982","year":"2018","type":"movie"}
+{"_id":{"$oid":"5e7e71a852f3fac0d75b9e0c"},"title":"Niagara","poster":"https://m.media-amazon.com/images/M/MV5BMDBhNWE4Y2UtMTA5Mi00YzYyLTliMWMtMjc3OGU0ZWFiMGVhL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg","imdb_id":"tt0046126","year":"1953","type":"movie"}
+{"_id":{"$oid":"5e7e71a852f3fac0d75b9e0d"},"title":"Niagara, Niagara","poster":"https://m.media-amazon.com/images/M/MV5BMTY2MWRlMzYtYzIzMy00NjBkLWEwYmQtYjFlN2NmNGIxNzE2XkEyXkFqcGdeQXVyMTQ3Njg3MQ@@._V1_SX300.jpg","imdb_id":"tt0119780","year":"1997","type":"movie"}
+{"_id":{"$oid":"5e7e71a852f3fac0d75b9e0e"},"title":"Niagara, Niagara","poster":"https://m.media-amazon.com/images/M/MV5BMTUyMzk3NjQ0OV5BMl5BanBnXkFtZTcwNTk2NTAyMQ@@._V1_SX300.jpg","imdb_id":"tt0180007","year":"1997","type":"movie"}
+{"_id":{"$oid":"5e7e71a852f3fac0d75b9e0f"},"title":"Niagara Motel","poster":"https://m.media-amazon.com/images/M/MV5BMjA2NTU4NDI0OV5BMl5BanBnXkFtZTcwNjA1NzY5MQ@@._V1_SX300.jpg","imdb_id":"tt0425295","year":"2005","type":"movie"}
+{"_id":{"$oid":"5e7e71a852f3fac0d75b9e10"},"title":"Niagara Falls","poster":"https://m.media-amazon.com/images/M/MV5BNjg2YmE4MzUtYWQ1Ny00ZWM3LWFjZTMtMTVhODMxN2YzZjFhXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_SX300.jpg","imdb_id":"tt0000162","year":"1897","type":"movie"}
+{"_id":{"$oid":"5e7e71a852f3fac0d75b9e11"},"title":"Chasing Niagara","poster":"https://m.media-amazon.com/images/M/MV5BY2E0NmQ0YzMtMzM0ZS00YjhjLTk5YjAtOGVkNzM5MzViNzNiXkEyXkFqcGdeQXVyODA5NTY3MA@@._V1_SX300.jpg","imdb_id":"tt5192278","year":"2015","type":"movie"}
+{"_id":{"$oid":"5e7e71a852f3fac0d75b9e12"},"title":"Niagara: Miracles, Myths and Magic","poster":"https://m.media-amazon.com/images/M/MV5BMTQwNzg3NjUzNV5BMl5BanBnXkFtZTcwMzg2MjczMQ@@._V1_SX300.jpg","imdb_id":"tt0091626","year":"1986","type":"movie"}
+{"_id":{"$oid":"5e7e71a852f3fac0d75b9e13"},"title":"Niagara Falls","poster":"https://m.media-amazon.com/images/M/MV5BMjI1NDExNTU0NV5BMl5BanBnXkFtZTgwNjUwMzYwNzE@._V1_SX300.jpg","imdb_id":"tt0033949","year":"1941","type":"movie"}
+{"_id":{"$oid":"5e7e71a852f3fac0d75b9e14"},"title":"Captain Nissen Going Through Whirlpool Rapids, Niagara Falls","poster":"N/A","imdb_id":"tt0360454","year":"1901","type":"movie"}
+{"_id":{"$oid":"5e7e71a852f3fac0d75b9e15"},"title":"Niagara Fools","poster":"https://m.media-amazon.com/images/M/MV5BNDIzOWNiMDYtNGNhMS00MGM4LWFkNzMtZWI0Zjg3YTZjMzEzXkEyXkFqcGdeQXVyNjk2MDY4NTI@._V1_SX300.jpg","imdb_id":"tt0151746","year":"1956","type":"movie"}
+{"_id":{"$oid":"5e7e71a852f3fac0d75b9e16"},"title":"The Magic of David Copperfield XII: The Niagara Falls Challenge","poster":"N/A","imdb_id":"tt0159546","year":"1990","type":"movie"}
+{"_id":{"$oid":"5e7e71a852f3fac0d75b9e17"},"title":"The Great Niagara","poster":"https://m.media-amazon.com/images/M/MV5BYzUxNWJkYTYtNGUyOS00MzU5LTk3M2MtMDA2MTJjNGZkNWQxXkEyXkFqcGdeQXVyMDY4MzkyNw@@._V1_SX300.jpg","imdb_id":"tt0071580","year":"1974","type":"movie"}
+{"_id":{"$oid":"5e7e71a852f3fac0d75b9e18"},"title":"Mighty Niagara","poster":"N/A","imdb_id":"tt0217653","year":"1943","type":"movie"}
+{"_id":{"$oid":"5e7e71a852f3fac0d75b9e19"},"title":"Niagara Falls","poster":"https://m.media-amazon.com/images/M/MV5BYmUzMDk3MzctODk1NS00YjEyLTg4MTEtYWM3ZDZkNzdkYTc0XkEyXkFqcGdeQXVyNjgwNjU1MDE@._V1_SX300.jpg","imdb_id":"tt0829433","year":"2006","type":"movie"}
+{"_id":{"$oid":"5e7e71a852f3fac0d75b9e1a"},"title":"Niagara: A History of the Falls","poster":"N/A","imdb_id":"tt0219208","year":"1999","type":"movie"}
+{"_id":{"$oid":"5e7e71a852f3fac0d75b9e1b"},"title":"Niagara","poster":"N/A","imdb_id":"tt2255901","year":"2011","type":"movie"}
+{"_id":{"$oid":"5e7e71a852f3fac0d75b9e1c"},"title":"Any Niagara","poster":"N/A","imdb_id":"tt0414831","year":"2004","type":"movie"}
+{"_id":{"$oid":"5e7e71a852f3fac0d75b9e1d"},"title":"Taken from Trolley in Gorge, Niagara Falls","poster":"N/A","imdb_id":"tt0203971","year":"1896","type":"movie"}
+{"_id":{"$oid":"5e7e71a852f3fac0d75b9e1e"},"title":"Niagara Strip","poster":"https://m.media-amazon.com/images/M/MV5BYTZiNTAyM2YtNzA2MC00ZmZmLWFmZWQtYTRiNzg5MDNmMjIwXkEyXkFqcGdeQXVyMTgwOTE5NDk@._V1_SX300.jpg","imdb_id":"tt0202494","year":"1989","type":"movie"}
+{"_id":{"$oid":"5e7e71a852f3fac0d75b9e1f"},"title":"Niagara Gorge from Erie R.R.","poster":"N/A","imdb_id":"tt0203735","year":"1896","type":"movie"}
+{"_id":{"$oid":"5e7e71a852f3fac0d75b9e20"},"title":"The Boy Who Stopped Niagara","poster":"N/A","imdb_id":"tt0225216","year":"1947","type":"movie"}
+{"_id":{"$oid":"5e7e71a852f3fac0d75b9e21"},"title":"American Falls from Bridge, Niagara Falls","poster":"N/A","imdb_id":"tt0229212","year":"1896","type":"movie"}
+{"_id":{"$oid":"5e7e71a852f3fac0d75b9e22"},"title":"Niagara Falls (From the East Side of the American Falls)","poster":"N/A","imdb_id":"tt2224369","year":"1896","type":"movie"}
+{"_id":{"$oid":"5e7e71a852f3fac0d75b9e23"},"title":"Niagara","poster":"N/A","imdb_id":"tt2709294","year":"2013","type":"movie"}
+{"_id":{"$oid":"5e7e71a852f3fac0d75b9e24"},"title":"Niagara the World's Wonder","poster":"N/A","imdb_id":"tt2825394","year":"1903","type":"movie"}
+{"_id":{"$oid":"5e7e71a852f3fac0d75b9e25"},"title":"Snapshots of Niagara","poster":"N/A","imdb_id":"tt2858130","year":"1903","type":"movie"}
+{"_id":{"$oid":"5e7e71a852f3fac0d75b9e26"},"title":"Niagara","poster":"N/A","imdb_id":"tt2989810","year":"2013","type":"movie"}
+{"_id":{"$oid":"5e7e71a852f3fac0d75b9e27"},"title":"Whirlpool Rapids, Niagara, USA","poster":"N/A","imdb_id":"tt3390030","year":"1905","type":"movie"}
+{"_id":{"$oid":"5e7e71a852f3fac0d75b9e28"},"title":"Niagara Falls in Winter","poster":"N/A","imdb_id":"tt3390084","year":"1908","type":"movie"}
+{"_id":{"$oid":"5e7e71a852f3fac0d75b9e29"},"title":"Niagara","poster":"N/A","imdb_id":"tt3578552","year":"2015","type":"movie"}
+{"_id":{"$oid":"5e7e71a852f3fac0d75b9e2a"},"title":"Niagara","poster":"N/A","imdb_id":"tt3672834","year":"2013","type":"movie"}
+{"_id":{"$oid":"5e7e71a852f3fac0d75b9e2b"},"title":"Niagara","poster":"N/A","imdb_id":"tt3730484","year":"2013","type":"movie"}
+{"_id":{"$oid":"5e7e71a852f3fac0d75b9e2c"},"title":"Quebec to Niagara","poster":"N/A","imdb_id":"tt3786900","year":"1908","type":"movie"}
+{"_id":{"$oid":"5e7e71a852f3fac0d75b9e2d"},"title":"Niagara","poster":"N/A","imdb_id":"tt4036154","year":"1908","type":"movie"}
+{"_id":{"$oid":"5e7e71a852f3fac0d75b9e2e"},"title":"British Columbia: Niagara in Winter","poster":"N/A","imdb_id":"tt4578260","year":"1909","type":"movie"}
+{"_id":{"$oid":"5e7e71a852f3fac0d75b9e2f"},"title":"Candyman: Niagara Falls","poster":"N/A","imdb_id":"tt4889124","year":"2015","type":"movie"}
+{"_id":{"$oid":"5e7e71a852f3fac0d75b9e30"},"title":"Picturesque Niagara","poster":"N/A","imdb_id":"tt5121804","year":"1910","type":"movie"}
+{"_id":{"$oid":"5e7e71a852f3fac0d75b9e31"},"title":"Neon Niagara","poster":"N/A","imdb_id":"tt2261881","year":"1991","type":"movie"}
+{"_id":{"$oid":"5e7e71a852f3fac0d75b9e32"},"title":"Niagara Falls","poster":"N/A","imdb_id":"tt2270570","year":"1913","type":"movie"}
+{"_id":{"$oid":"5e7e71a852f3fac0d75b9e33"},"title":"Niagara","poster":"N/A","imdb_id":"tt2319736","year":"1899","type":"movie"}
+{"_id":{"$oid":"5e7e71a852f3fac0d75b9e34"},"title":"Niagara Falls from the Brink of the Horseshoe","poster":"N/A","imdb_id":"tt2406988","year":"1900","type":"movie"}
+{"_id":{"$oid":"5e7e71a852f3fac0d75b9e35"},"title":"The Siege of Niagara","poster":"N/A","imdb_id":"tt2498620","year":"2009","type":"movie"}
+{"_id":{"$oid":"5e7e71a852f3fac0d75b9e36"},"title":"American Falls and Niagara Rapids","poster":"N/A","imdb_id":"tt2604290","year":"1901","type":"movie"}
+{"_id":{"$oid":"5e7e71a852f3fac0d75b9e37"},"title":"Whirlpool Rapids at Niagara","poster":"N/A","imdb_id":"tt2625490","year":"1901","type":"movie"}
+{"_id":{"$oid":"5e7e71a852f3fac0d75b9e38"},"title":"Panorama Looking Down Niagara from New Suspension Bridge","poster":"N/A","imdb_id":"tt0419006","year":"1903","type":"movie"}
+{"_id":{"$oid":"5e7e71a852f3fac0d75b9e39"},"title":"Crossing Ice Bridge at Niagara Falls","poster":"N/A","imdb_id":"tt0828008","year":"1904","type":"movie"}
+{"_id":{"$oid":"5e7e71a852f3fac0d75b9e3a"},"title":"Hidden Corners: Niagara","poster":"N/A","imdb_id":"tt5596576","year":"2016","type":"movie"}
+{"_id":{"$oid":"5e7e71a852f3fac0d75b9e3b"},"title":"Niagara","poster":"N/A","imdb_id":"tt5839592","year":"1991","type":"movie"}
+{"_id":{"$oid":"5e7e71a852f3fac0d75b9e3c"},"title":"NIAGARA: Thunder of the Waters","poster":"https://m.media-amazon.com/images/M/MV5BYmU0ZTFkNDYtYmViMS00MmEwLWE5YTctYzNlMWE1NmNhYWRlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQ5NDY0NDQ@._V1_SX300.jpg","imdb_id":"tt5901610","year":"2016","type":"movie"}
+{"_id":{"$oid":"5e7e71a852f3fac0d75b9e3d"},"title":"Ohbijou: Niagara","poster":"N/A","imdb_id":"tt6833272","year":"2011","type":"movie"}
+{"_id":{"$oid":"5e7e71a852f3fac0d75b9e3e"},"title":"Panoramic View of Niagara Falls in Winter","poster":"N/A","imdb_id":"tt0230616","year":"1899","type":"movie"}
+{"_id":{"$oid":"5e7e71a852f3fac0d75b9e3f"},"title":"Whirlpool Rapids, Niagara Falls","poster":"N/A","imdb_id":"tt0238728","year":"1896","type":"movie"}
+{"_id":{"$oid":"5e7e71a852f3fac0d75b9e40"},"title":"Niagara Falls","poster":"N/A","imdb_id":"tt0245318","year":"2000","type":"movie"}
+{"_id":{"$oid":"5e7e71a852f3fac0d75b9e41"},"title":"The Approach to Niagara","poster":"N/A","imdb_id":"tt0250216","year":"1899","type":"movie"}
+{"_id":{"$oid":"5e7e71a852f3fac0d75b9e42"},"title":"Lower Rapids of Niagara Falls","poster":"N/A","imdb_id":"tt0252655","year":"1899","type":"movie"}
+{"_id":{"$oid":"5e7e71a852f3fac0d75b9e43"},"title":"Niagara Falls Station","poster":"N/A","imdb_id":"tt0253311","year":"1899","type":"movie"}
+{"_id":{"$oid":"5e7e71a852f3fac0d75b9e44"},"title":"Panoramic View of Niagara Falls","poster":"N/A","imdb_id":"tt0253441","year":"1899","type":"movie"}
+{"_id":{"$oid":"5e7e71a852f3fac0d75b9e45"},"title":"The 'Niagara'","poster":"N/A","imdb_id":"tt0257336","year":"1899","type":"movie"}
+{"_id":{"$oid":"5e7e71a852f3fac0d75b9e46"},"title":"Niagara Falls in Life Motion Pictures","poster":"N/A","imdb_id":"tt0266798","year":"1900","type":"movie"}
+{"_id":{"$oid":"5e7e71a852f3fac0d75b9e47"},"title":"De overtocht op de Niagara","poster":"N/A","imdb_id":"tt0339484","year":"1975","type":"movie"}
+{"_id":{"$oid":"5e7e71a952f3fac0d75b9e48"},"title":"Circular Panorama of Niagara Falls","poster":"N/A","imdb_id":"tt0359081","year":"1901","type":"movie"}
+{"_id":{"$oid":"5e7e71a952f3fac0d75b9e49"},"title":"Niagara for Sale","poster":"N/A","imdb_id":"tt0227129","year":"1975","type":"movie"}
+{"_id":{"$oid":"5e7e71a952f3fac0d75b9e4a"},"title":"Niagara Falls","poster":"N/A","imdb_id":"tt0222232","year":"1914","type":"movie"}
+{"_id":{"$oid":"5e7e71a952f3fac0d75b9e4b"},"title":"Prince Henry (of Prussia) at Niagara Falls","poster":"N/A","imdb_id":"tt0368175","year":"1902","type":"movie"}
+{"_id":{"$oid":"5e7e71a952f3fac0d75b9e4c"},"title":"A Niagara Honeymoon","poster":"https://m.media-amazon.com/images/M/MV5BMGMzMTNlMTAtNmRjMi00MjRhLThjZTMtMzdkYmQ1NzI3MTFmXkEyXkFqcGdeQXVyMDUyOTUyNQ@@._V1_SX300.jpg","imdb_id":"tt0403350","year":"1912","type":"movie"}
+{"_id":{"$oid":"5e7e71a952f3fac0d75b9e4d"},"title":"Great Gorge R.R., Niagara","poster":"N/A","imdb_id":"tt0414066","year":"1903","type":"movie"}
+{"_id":{"$oid":"5e7e71a952f3fac0d75b9e4e"},"title":"A Message from Niagara","poster":"N/A","imdb_id":"tt0414278","year":"1912","type":"movie"}
+{"_id":{"$oid":"5e7e71a952f3fac0d75b9e4f"},"title":"Pointing Down Gorge, Niagara Falls","poster":"N/A","imdb_id":"tt0203811","year":"1896","type":"movie"}
+{"_id":{"$oid":"5e7e71a952f3fac0d75b9e50"},"title":"Lower Rapids, Niagara Falls","poster":"N/A","imdb_id":"tt0203657","year":"1896","type":"movie"}
+{"_id":{"$oid":"5e7e71a952f3fac0d75b9e51"},"title":"My Niagara","poster":"N/A","imdb_id":"tt0192340","year":"1992","type":"movie"}
+{"_id":{"$oid":"5e7e71a952f3fac0d75b9e52"},"title":"Niagara","poster":"N/A","imdb_id":"tt0192363","year":"1992","type":"movie"}
+{"_id":{"$oid":"5e7e71a952f3fac0d75b9e53"},"title":"The Maid of Niagara","poster":"N/A","imdb_id":"tt0001302","year":"1910","type":"movie"}
+{"_id":{"$oid":"5e7e71a952f3fac0d75b9e54"},"title":"Over Niagara Falls","poster":"N/A","imdb_id":"tt0004447","year":"1914","type":"movie"}
+{"_id":{"$oid":"5e7e71a952f3fac0d75b9e55"},"title":"Niagara Falls","poster":"N/A","imdb_id":"tt0017203","year":"1926","type":"movie"}
+{"_id":{"$oid":"5e7e71a952f3fac0d75b9e56"},"title":"Niagara Falls","poster":"N/A","imdb_id":"tt0023263","year":"1932","type":"movie"}
+{"_id":{"$oid":"5e7e71a952f3fac0d75b9e57"},"title":"Niagara the Beautiful","poster":"N/A","imdb_id":"tt0885089","year":"1912","type":"movie"}
+{"_id":{"$oid":"5e7e71a952f3fac0d75b9e58"},"title":"Sliding Down Ice Mound at Niagara Falls","poster":"N/A","imdb_id":"tt0925289","year":"1904","type":"movie"}
+{"_id":{"$oid":"5e7e71a952f3fac0d75b9e59"},"title":"An Oregonian Niagara","poster":"N/A","imdb_id":"tt0953540","year":"1917","type":"movie"}
+{"_id":{"$oid":"5e7e71a952f3fac0d75b9e5a"},"title":"Niagara","poster":"N/A","imdb_id":"tt0988695","year":"1921","type":"movie"}
+{"_id":{"$oid":"5e7e71a952f3fac0d75b9e5b"},"title":"Cataracting Around Niagara","poster":"N/A","imdb_id":"tt1003136","year":"1924","type":"movie"}
+{"_id":{"$oid":"5e7e71a952f3fac0d75b9e5c"},"title":"Niagara: Thunder of the Waters","poster":"N/A","imdb_id":"tt1010428","year":"1998","type":"movie"}
+{"_id":{"$oid":"5e7e71a952f3fac0d75b9e5d"},"title":"Niagara Falls","poster":"N/A","imdb_id":"tt1117611","year":"1912","type":"movie"}
+{"_id":{"$oid":"5e7e71a952f3fac0d75b9e5e"},"title":"Niagara Falls in Winter","poster":"N/A","imdb_id":"tt1136903","year":"1912","type":"movie"}
+{"_id":{"$oid":"5e7e71a952f3fac0d75b9e5f"},"title":"Niagara Falls","poster":"N/A","imdb_id":"tt1139920","year":"1912","type":"movie"}
+{"_id":{"$oid":"5e7e71a952f3fac0d75b9e60"},"title":"Niagara Falls","poster":"N/A","imdb_id":"tt1228939","year":"1915","type":"movie"}
+{"_id":{"$oid":"5e7e71a952f3fac0d75b9e61"},"title":"Niagara Falls Celebration","poster":"N/A","imdb_id":"tt1282450","year":"1911","type":"movie"}
+{"_id":{"$oid":"5e7e71a952f3fac0d75b9e62"},"title":"Niagara Falls","poster":"N/A","imdb_id":"tt1392209","year":"1918","type":"movie"}
+{"_id":{"$oid":"5e7e71a952f3fac0d75b9e63"},"title":"Niagara Falls","poster":"N/A","imdb_id":"tt1509172","year":"2005","type":"movie"}
+{"_id":{"$oid":"5e7e71a952f3fac0d75b9e64"},"title":"Spring Comes to Niagara","poster":"N/A","imdb_id":"tt1516128","year":"1949","type":"movie"}
+{"_id":{"$oid":"5e7e71a952f3fac0d75b9e65"},"title":"A South American Niagara","poster":"N/A","imdb_id":"tt1564752","year":"1919","type":"movie"}
+{"_id":{"$oid":"5e7e71a952f3fac0d75b9e66"},"title":"Fort Niagara: The Struggle for a Continent","poster":"N/A","imdb_id":"tt1614970","year":"2004","type":"movie"}
+{"_id":{"$oid":"5e7e71a952f3fac0d75b9e67"},"title":"Niagara Falls","poster":"N/A","imdb_id":"tt1698545","year":"1930","type":"movie"}
+{"_id":{"$oid":"5e7e71a952f3fac0d75b9e68"},"title":"Niagara Falls","poster":"N/A","imdb_id":"tt1702568","year":"1912","type":"movie"}
+{"_id":{"$oid":"5e7e71a952f3fac0d75b9e69"},"title":"A Winter Romance at Niagara Falls","poster":"N/A","imdb_id":"tt1789676","year":"1910","type":"movie"}
+{"_id":{"$oid":"5e7e71a952f3fac0d75b9e6a"},"title":"American Falls from Goat Island, Niagara Falls, N.Y.","poster":"N/A","imdb_id":"tt1856676","year":"1906","type":"movie"}
+{"_id":{"$oid":"5e7e71a952f3fac0d75b9e6b"},"title":"A Trip on the 'Chippewa', Niagara Falls, N.Y.","poster":"N/A","imdb_id":"tt1864248","year":"1906","type":"movie"}
+{"_id":{"$oid":"5e7e71a952f3fac0d75b9e6c"},"title":"Horseshoe Falls from American Side, Niagara Falls, N.Y.","poster":"N/A","imdb_id":"tt1867556","year":"1906","type":"movie"}
+{"_id":{"$oid":"5e7e71a952f3fac0d75b9e6d"},"title":"The Honeymoon at Niagara Falls","poster":"N/A","imdb_id":"tt1880364","year":"1906","type":"movie"}
+{"_id":{"$oid":"5e7e71a952f3fac0d75b9e6e"},"title":"Horseshoe Falls from Canadian Side, Niagara Falls, N.Y.","poster":"N/A","imdb_id":"tt1882086","year":"1906","type":"movie"}
+{"_id":{"$oid":"5e7e71a952f3fac0d75b9e6f"},"title":"American Falls from Canadian Side, Niagara Falls, N.Y.","poster":"N/A","imdb_id":"tt1930278","year":"1906","type":"movie"}
+{"_id":{"$oid":"5e7e71a952f3fac0d75b9e70"},"title":"Niagara in Winter Dress","poster":"N/A","imdb_id":"tt1932684","year":"1909","type":"movie"}
+{"_id":{"$oid":"5e7e71a952f3fac0d75b9e71"},"title":"A Trip on the 'Maid in the Mist', Niagara Falls, N.Y.","poster":"N/A","imdb_id":"tt1959322","year":"1906","type":"movie"}
+{"_id":{"$oid":"5e7e71a952f3fac0d75b9e72"},"title":"Niagara Falls","poster":"N/A","imdb_id":"tt2044777","year":"1906","type":"movie"}
+{"_id":{"$oid":"5e7e71a952f3fac0d75b9e73"},"title":"Niagara Falls in Winter: The Waterfall","poster":"N/A","imdb_id":"tt2158657","year":"1895","type":"movie"}
+{"_id":{"$oid":"5e7e71a952f3fac0d75b9e74"},"title":"Niagara Falls: Close to the Waterfall","poster":"N/A","imdb_id":"tt2158659","year":"1895","type":"movie"}
+{"_id":{"$oid":"5e7e71a952f3fac0d75b9e75"},"title":"Niagara Falls: The Great Whirlpool","poster":"N/A","imdb_id":"tt2158661","year":"1895","type":"movie"}
+{"_id":{"$oid":"5e7e71a952f3fac0d75b9e76"},"title":"Niagara Falls, Whirlpool","poster":"N/A","imdb_id":"tt2184245","year":"1896","type":"movie"}
+{"_id":{"$oid":"5e7e71a952f3fac0d75b9e77"},"title":"Niagara Falls (From the West Side of the American Falls)","poster":"N/A","imdb_id":"tt2194631","year":"1896","type":"movie"}
+{"_id":{"$oid":"5e7e71a952f3fac0d75b9e78"},"title":"Niagara Falls (Canadian Falls)","poster":"N/A","imdb_id":"tt2207541","year":"1896","type":"movie"}
+{"_id":{"$oid":"5e7e71a952f3fac0d75b9e79"},"title":"Megastunts: Highwire Over Niagara Falls Live","poster":"N/A","imdb_id":"tt2212918","year":"2012","type":"movie"}

@@ -1,0 +1,1 @@
+{'education': 334, 'canada': 1498, 'university': 1352, 'dalhousie': 278, 'expensive': 3, 'faculty': 37, 'graduate': 12, 'good school': 1, 'good schools': 2, 'bad school': 0, 'bad schools': 0, 'poor school': 0, 'poor schools': 0, 'computer science': 3}
